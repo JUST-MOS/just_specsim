@@ -1,0 +1,5 @@
+sample,criterion,frozen_nominal_test_s,weighted_nominal_eff_s,weighted_dark_s,weighted_bright_s,nominal_success,nominal_n,nominal_fraction,nominal_lower,ebv,status
+r<19.5,point,1817.0,1758.5558153146526,1499.9961539738513,1845.0341607448747,555,578,0.9602076124567474,0.9408881317277092,0.053360361999999995,proxy-converted from first passing nominal SUM-coadd test; weighted coadd unvalidated
+r<19.5,bonferroni_lower,3436.0,3409.6273291926223,2999.7059657625823,3557.8405820336557,563,578,0.9740484429065744,0.957557670997966,0.053360361999999995,proxy-converted from first passing nominal SUM-coadd test; weighted coadd unvalidated
+r<20.5,point,3436.0,3409.6273291926223,2999.7059657625823,3557.8405820336557,1289,1332,0.9677177177177178,0.9567605139020288,0.053360361999999995,proxy-converted from first passing nominal SUM-coadd test; weighted coadd unvalidated
+r<20.5,bonferroni_lower,3436.0,3409.6273291926223,2999.7059657625823,3557.8405820336557,1289,1332,0.9677177177177178,0.9567605139020288,0.053360361999999995,proxy-converted from first passing nominal SUM-coadd test; weighted coadd unvalidated

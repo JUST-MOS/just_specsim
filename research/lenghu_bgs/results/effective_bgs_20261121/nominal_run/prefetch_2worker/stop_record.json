@@ -1,0 +1,27 @@
+{
+  "status": "stopped",
+  "completed": [
+    {
+      "start": 1308,
+      "galaxies": 24,
+      "attempted": 48,
+      "returned": 48,
+      "elapsed_seconds": 311.279
+    }
+  ],
+  "current_start": 1258,
+  "error": null,
+  "updated_utc": "2026-11-21T06:32:35.142258+00:00",
+  "worker_count_per_redrock": 2,
+  "note": "Disjoint tail batches; staging and main paths refer to the same inodes after linking.",
+  "stop_reason": "Optional prefetch interrupted after batch 1308 because concurrent runs caused substantial swap activity; main run continues",
+  "unpublished_partial_files": [
+    "test_1258_redrock.log",
+    "test_1258_runner.log",
+    "test_1258_simulation.log",
+    "test_1258_spectra.fits",
+    "test_1258_spectra_manifest.json",
+    "test_1258_spectra_masks.csv",
+    "test_1258_spectra_truth.csv"
+  ]
+}

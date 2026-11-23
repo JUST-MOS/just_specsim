@@ -1,0 +1,122 @@
+{
+  "status": "complete",
+  "n_test": 1332,
+  "n_rows": 13320,
+  "n_original": 891,
+  "n_new": 441,
+  "times_s": [
+    750,
+    1500,
+    2250,
+    3000,
+    3600
+  ],
+  "skies": [
+    "dark",
+    "bright"
+  ],
+  "input_files": [
+    {
+      "kind": "original_individual",
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/population_4200_camera_overlap/output/test_individual_results.csv",
+      "sha256": "628637060461d6f0edf85d39493cc8992d51292a9e1836b8ce984a4c36a6b095"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 891,
+      "galaxies": 8,
+      "csv_sha256": "2e935f049b916bd28cc26b131a32546fc66636178335dd87c87af6bb05726d0f",
+      "fit_fits_sha256": "5f509eaff6368f8154d088c33fb5ae4019ecdd523be61913ec18a05a68480503",
+      "spectra_sha256": "874b2e24467b11a1826574f61e341e1da4d0801fd9837ad5afbc6765402f1b05"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 899,
+      "galaxies": 50,
+      "csv_sha256": "e1fc45cbdf1cd6d7d14eeb40526de085f8fa6c0b26b994c832a46b39dd498c9f",
+      "fit_fits_sha256": "55df759f13de1fc5cc9a8a4e9346960ea83c73216c492439237c19ce5cee04ea",
+      "spectra_sha256": "6976a48f038c8b4c9debcdbed7bfe5f56a8cb55dcc0ad9547a940e369e78206d"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 949,
+      "galaxies": 50,
+      "csv_sha256": "8b61cddd6b4006a0a9a610329fd37e8c53565dd24a000b1bc3ae8705346d44d0",
+      "fit_fits_sha256": "57300f3263e16b5151172591bdd684973e1c1a9d8b98f34879f93a46a7fa35b2",
+      "spectra_sha256": "06b3959d671c479102f67aaa0c0ae3546bdaadd45056b04025dacd209ac41dc4"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 999,
+      "galaxies": 50,
+      "csv_sha256": "e2a51599f565a9166821feb72afcb582534f60e7fbe87a9699659bde403b5912",
+      "fit_fits_sha256": "a072b3f1090745778be67ba991548a5928ac18f58034a074561655a430750819",
+      "spectra_sha256": "a50f9277848159c5dc87e08ab4fdc516139dcb75b5c2b5893e2c6470530aad86"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1049,
+      "galaxies": 50,
+      "csv_sha256": "7dc330d4839418193d59e78bd7a4d61bd21812d85e0818f208902411f835a0c1",
+      "fit_fits_sha256": "3005ea3c3f7acffa270ec604faa205266f0f138e02257b00f7ed3cb51e775ead",
+      "spectra_sha256": "6d352d04c629ee9042f97ece5d1088c92b0973ff3b57699065b2bec9c2768e6d"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1099,
+      "galaxies": 50,
+      "csv_sha256": "b84f8b4bd6d14501682bb4dbc9f17a83b131b569aac094064c0a571291f6ebc4",
+      "fit_fits_sha256": "477ad1b450ea8b3ce030cd532e49798fae700c6773a02240f21e5a82aca36b47",
+      "spectra_sha256": "baf2b4ea92f73181e51207cb04e7d62e2d8249df355a1c7d9976b97f001f8072"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1149,
+      "galaxies": 50,
+      "csv_sha256": "cb980ff5120f71070e97c7e3c5d9ca8f5a11dc425c815d3fb85d123b370642a6",
+      "fit_fits_sha256": "129af81e8e165f204549637bac11e19a9589f6c12f17b817e926b52a14eceb18",
+      "spectra_sha256": "0873b4530044926eb975089743228c4937c076e09252871779a1e6f55d866469"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1199,
+      "galaxies": 50,
+      "csv_sha256": "17e8505aed32b6f95495a0bb555037d0a0c619c29715cc90de59c2d69d77d4f9",
+      "fit_fits_sha256": "2767117a583eb4c91dfebfcf05169ac9c86b0e2c75214914bf1f05cc9d406d04",
+      "spectra_sha256": "4d3acace4c3996d57a1e20fc3110f457347b3168e30bfe94cbf16a66123f8c3d"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1249,
+      "galaxies": 50,
+      "csv_sha256": "29e10ffe6fe83c729319504569bd1eea16f1c34e1e8bbbbf36c83c92581d648c",
+      "fit_fits_sha256": "7e22cda938e09a800e486a960b15ccff2e6ac822ad3a19dd449432d46edc7dc4",
+      "spectra_sha256": "02ddceafa2076a9ee3a0fff60b09de6eb4bbcc1d4b75643dbdd5e14375ffba22"
+    },
+    {
+      "kind": "extension_batch",
+      "start": 1299,
+      "galaxies": 33,
+      "csv_sha256": "0f37d7f31cec16abc5665551ad6cd0ed822a385fbe69bbf80db3be7ad4b8f8af",
+      "fit_fits_sha256": "01a466b541834c19ea574507d3a23ee30f3319b000fa9e24d6dece559403b4a0",
+      "spectra_sha256": "fa21af65cdde7dd17fce9e5bbc0c9366c7af8ec90b46e458b8062358c01d6a69"
+    }
+  ],
+  "sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "design_sha256": "b83ed468800d37d56478f36f93c3430b5e2154276e9665992362a986f881c96e",
+  "run_progress_sha256": "ecbb6ec531f0a8183d507b3140fded32d60e7ba4e1ccc918e3edc3ef333e179d",
+  "analysis_script_sha256": "2e104002e9bf9a174f77409e783c5f80827f347fb79461b731ed62c9e8ef435f",
+  "python": "3.12.11 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 08:06:15) [Clang 14.0.6 ]",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scipy": "1.16.0",
+    "astropy": "6.1.3"
+  },
+  "outputs": {
+    "individual_results.csv": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+    "success_curves.csv": "ea76b06a773132694d63c1521106f2816e47d06effe6145b275b7d8a69407718",
+    "exposure_thresholds.csv": "310e757cf876f1f5d7341dee1c7dffdadbdd66127b9ab5a45fa460540703ad5a"
+  },
+  "interval_scope": "Conditional binomial approximation, single selected field, shared reference observations and model selection; bounds omit sky, atmospheric, instrument, and population systematics. Each time has an independently seeded noise realization. An 8-object pilot had already been inspected before this analysis design; original grouping choices transfer from the previous frozen study and must not be described as fully blind for this extension."
+}

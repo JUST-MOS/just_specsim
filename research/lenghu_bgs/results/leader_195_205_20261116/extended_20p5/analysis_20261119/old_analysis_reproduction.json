@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "original_galaxies": 891,
+  "curve_rows": 200,
+  "threshold_rows": 80,
+  "max_numeric_difference": 1.1102230246251565e-16,
+  "old_individual_sha256": "628637060461d6f0edf85d39493cc8992d51292a9e1836b8ce984a4c36a6b095",
+  "old_curve_sha256": "212646879ee09d1aca701bf1691d937834eca399eec50342a9d3a5bb181ffaca",
+  "old_threshold_sha256": "cf688290a6d9ad526abf68f8203b9c3b4ae44b773b1e0c020b34a6bfcf669291",
+  "new_analysis_script_sha256": "2e104002e9bf9a174f77409e783c5f80827f347fb79461b731ed62c9e8ef435f",
+  "verifier_sha256": "266c7f557da7ed4e883637e414122b0ba56184139ffa0280b6d69e14dcd965c4"
+}

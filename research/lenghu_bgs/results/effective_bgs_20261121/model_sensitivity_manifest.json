@@ -1,0 +1,14 @@
+{
+  "status": "deterministic sensitivity, not a calibrated uncertainty interval",
+  "weight_training_n": 110,
+  "subsets": {
+    "other_unclassified": 51,
+    "bpt_star_forming": 36,
+    "weak_line_old": 23
+  },
+  "shape_scope": "circular exponential half-light radii 0.5, 1.5 and 3.0 arcsec",
+  "magnitude_scope": "r=18.5, 19.5, 20.0, 20.5; common feature-amplitude scaling cancels, but source-Poisson term changes",
+  "note": "Subtypes, magnitudes, sizes and R-only change the proxy, not galaxy outcomes; no fresh Redrock fit here.",
+  "input_model_sha256": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+  "script_sha256": "d861855498c764f346831dbc29626bd40c2b8bf825f55095d85653bc1257148c"
+}

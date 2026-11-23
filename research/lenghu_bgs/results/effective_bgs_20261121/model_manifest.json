@@ -1,0 +1,98 @@
+{
+  "sky": {
+    "raw_r_ab": 21.4352408826851,
+    "nominal_r_ab": 21.069999999999997,
+    "grey_scale_raw_to_nominal": 1.3998978710763075,
+    "guarded_sky_samples": 52
+  },
+  "training": {
+    "B": {
+      "pixels": 4096,
+      "valid_pixels": 4032,
+      "median_filter_width_A": 100.59814453125,
+      "minimum_training_count_valid": 93,
+      "maximum_training_count_valid": 110
+    },
+    "R": {
+      "pixels": 4096,
+      "valid_pixels": 3549,
+      "median_filter_width_A": 100.59814453125,
+      "minimum_training_count_valid": 110,
+      "maximum_training_count_valid": 110
+    },
+    "Z": {
+      "pixels": 4096,
+      "valid_pixels": 3581,
+      "median_filter_width_A": 100.59814453125,
+      "minimum_training_count_valid": 110,
+      "maximum_training_count_valid": 110
+    }
+  },
+  "sky_deposition": {
+    "B": {
+      "reference_incoming_e": 118419.58722727867,
+      "reference_deposited_e": 118418.2676471216,
+      "nominal_sky_median_e_per_750": 31.455312178339398,
+      "nominal_atm_min": 0.6985458805703595,
+      "nominal_atm_max": 0.9145573715749787
+    },
+    "R": {
+      "reference_incoming_e": 311315.50727112475,
+      "reference_deposited_e": 311315.47348678764,
+      "nominal_sky_median_e_per_750": 55.416034378287506,
+      "nominal_atm_min": 0.9103591787607402,
+      "nominal_atm_max": 0.9890115930997954
+    },
+    "Z": {
+      "reference_incoming_e": 928135.3565345989,
+      "reference_deposited_e": 928120.3496337617,
+      "nominal_sky_median_e_per_750": 114.37999113700292,
+      "nominal_atm_min": 0.4382275512739299,
+      "nominal_atm_max": 0.998159539971248
+    }
+  },
+  "scenario_median_ebv": 0.053360361999999995,
+  "nominal_seeing_800_arcsec": 1.0505042136624068,
+  "status": "conditional model; transfer to equal Redrock success not yet validated",
+  "training_n": 110,
+  "training_selection": "calibration split, r0<19.5, 0.13<VI_Z<0.37",
+  "fiducial": "r0=19.5 BASS-r, circular exponential half-light radius 1.5 arcsec",
+  "nominal_conditions": "X=1, photometric, EBV=0, DECam-r 21.07 AB arcsec^-2, seeing 1.1 arcsec at 6355 A",
+  "scenario_conditions": "X=1.2, seeing 0.8 arcsec at 800 nm, field median EBV, 4200m dark and half-Moon skies",
+  "time_rule": "750s maximum subexposure; total electron sum; one read per subexposure; 1% fully correlated sky residual",
+  "weight_rule": "mean squared residual from 100A median-filtered calibration model spectra renormalized to r0=19.5; convolved with JUST LSF; per-wavelength negative-model neighborhoods masked",
+  "input_sha256": {
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/lasilla_2400_zenith_0p01nm.fits": "91e7303baaab39066f8e3472bac7bfaee2eac11df50ad0f7e8bc955be23bd4fd",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/paranal_2640_zenith_0p01nm.fits": "e32a33a68d0ff1c3a830de7a417a6e04abb5f3817b24e2bdb2064036e04575f1",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/anchor_3060_zenith_0p01nm.fits": "b8f6b42716a7a3829988b9de07a0e7f114ed313c7c8db2006560e10ff0acfb8a",
+    "/Users/rain/just_etc/doc/validation/desi_bgs_comparison/cache/decam2014-r.ecsv": "19d13d3660aa60bafb0ba794a262bf19a5c46e143bb439edf3c1ba82c1383cd6",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/population_4200_camera_overlap/output/instrument_reference_4200.npz": "590e711e80a810135c1d0043fadc190a33bf31b4dbba37831569ec7fa769793a",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/population_4200_camera_overlap/input/frozen_sample.csv": "1e2024f650169d9ece95c16136481bd135b774cad4951ade6c666270db3e41c6",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/population_4200_camera_overlap/input/normalized_sources.fits": "b20db630cff59e301320812587c3d8be994ce4faf2e7f0d393e3266eb2547694",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/bgs_like_r_lt_19p5_curves.csv": "113884b737122a9d4bc461083647bfa8e20c33c3722d1c1bd794ef773f4d0768",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/success_curves.csv": "ea76b06a773132694d63c1521106f2816e47d06effe6145b275b7d8a69407718",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/individual_results.csv": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/pilot_4200/lenghu_etc.py": "c2808296e063a89208830af9da2b3cdaf22019061f945642914cc5f34696f4bf",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/effective_model.py": "2e31086c8f8e72835c3076836c04e04ce4ecd344adcef795df88868021e3c58d",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/build_analysis.py": "2e663777da4bb95120719b88093d76761420c0f50b0bb613cd20b22c1125f00a"
+  },
+  "software": {
+    "python": "3.12.11 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 08:06:15) [Clang 14.0.6 ]",
+    "executable": "/Users/rain/miniconda3/envs/desi/bin/python",
+    "platform": "macOS-26.3.1-x86_64-i386-64bit",
+    "numpy": "1.26.4",
+    "scipy": "1.16.0",
+    "pandas": "2.3.3",
+    "astropy": "6.1.3",
+    "matplotlib": "3.10.0"
+  },
+  "verification": {
+    "nominal_identity_max_abs_s": 3.579998519853689e-10,
+    "background_variance_max_relative_difference": 0.0,
+    "adjusted_lower_max_abs_difference": 1.1102230246251565e-16,
+    "within_split_monotonicity": "passed",
+    "nominal_sky_decam_r_ab": 21.069999999999997,
+    "status": "passed; engineering and numerical checks, not physical calibration"
+  },
+  "elapsed_seconds": 4.7345817079767585
+}

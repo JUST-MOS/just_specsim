@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "old_batches": 28,
+  "new_batches": 28,
+  "matched_spectrum_arm_masks": 39960,
+  "different_pixel_arrays": 0,
+  "different_examples": [],
+  "comparison": "SHA-256 of each raw mask row; same target/sky/time and arm",
+  "script_sha256": "a5d714cfbdbb4905c78175ea163047e35531d6e76ba59bb18333e8d2a907180d",
+  "run_progress_sha256": "9b86d5d3658efa92acbcffaa6c754ac0a04dbe707ce73939f7b694cabd369a70"
+}

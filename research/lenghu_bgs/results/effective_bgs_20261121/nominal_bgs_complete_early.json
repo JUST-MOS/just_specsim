@@ -1,0 +1,12 @@
+{
+  "status": "complete for r<19.5 only; full r<20.5 scan continues",
+  "n": 578,
+  "times": [
+    1817,
+    3436
+  ],
+  "correction": "one-sided 95% Bonferroni over 2 nominal times",
+  "total_complete_cases_at_export": 1816,
+  "table_sha256": "e6dc7b9a54bd124b77e23fbac2804f88b2379a281bc0c5d3c6e76fe76426f72c",
+  "script_sha256": "ab35b0fe8c1ff1f8c524b7094b36f86acb3450d6edc05cff91daf7cb09f9384d"
+}

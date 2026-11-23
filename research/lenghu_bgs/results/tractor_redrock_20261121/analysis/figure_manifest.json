@@ -1,0 +1,12 @@
+{
+  "source": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/analysis/success_curves.csv",
+  "source_sha256": "62d73494ff19b33a88f943d5e6cfc7e010d0799e3fa104194de070cfd5981602",
+  "script_sha256": "3630450b7defbce693d4cb0b7eede8705c4b66a50d90d2dc7640a0cabe96948f",
+  "line_styles": "solid: point; dashed: one-sided 95% lower adjusted for five times",
+  "matplotlib": "3.10.0",
+  "size_inches": [
+    10.5,
+    7.5
+  ],
+  "png_dpi": 200
+}

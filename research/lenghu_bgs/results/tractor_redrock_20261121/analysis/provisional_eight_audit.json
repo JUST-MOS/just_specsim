@@ -1,0 +1,12 @@
+{
+  "status": "passed_five_grid_only",
+  "curves_checked": 40,
+  "alpha": 0.00625,
+  "old_results_sha256": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+  "main_analysis_sha256": "080e0bd3efabd96af9362a1c1bcaacad2226f9ebe1816b1689c5a600c5f38914",
+  "script_sha256": "a36261e0b300da513155a622fbe77adb4d86d733dcb9d7671e7e7586d9e810e1",
+  "outputs": {
+    "provisional_eight_bounds.csv": "256d20065202236726d43a280b21b510b736a7eb49d9826c09314a8410fc2b76",
+    "provisional_eight_thresholds.csv": "b4e49fb26e7f42e2d28d841d06d0a08ae366f65b0fc22ba1b9718ad48aa58abc"
+  }
+}

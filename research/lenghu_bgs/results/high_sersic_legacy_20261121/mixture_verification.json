@@ -1,0 +1,93 @@
+{
+  "status": "passed",
+  "prior_frozen_input_hashes_match": true,
+  "frozen_adapter_and_brick_hashes_match": true,
+  "n_adapter_and_brick_inputs_verified": 13,
+  "test_pixel_max_relative_difference": 0.0009807725815977886,
+  "direct_pixel_max_relative_difference": 1.3791258202111578e-07,
+  "n_direct_brick_profiles": 67,
+  "continuous_fraction_max_relative_difference": 4.440892098500626e-16,
+  "n_interpolation_profiles": 8,
+  "interpolation_max_relative_difference": 8.30380325700375e-05,
+  "point_check_wavelengths_nm": [
+    400.0,
+    500.0,
+    623.1,
+    800.0,
+    900.0
+  ],
+  "etc_psf_mixture_point_max_relative_difference": 0.0052952821244941495,
+  "adapter_n_galaxies": 4,
+  "adapter_n_target_arm": 12,
+  "adapter_max_response_relative_difference": 4.440892098500626e-16,
+  "adapter_sources": [
+    {
+      "targetid": 39633358166168154,
+      "morphology": "REX",
+      "band": "B"
+    },
+    {
+      "targetid": 39633358166168154,
+      "morphology": "REX",
+      "band": "R"
+    },
+    {
+      "targetid": 39633358166168154,
+      "morphology": "REX",
+      "band": "Z"
+    },
+    {
+      "targetid": 39633354928162610,
+      "morphology": "EXP",
+      "band": "B"
+    },
+    {
+      "targetid": 39633354928162610,
+      "morphology": "EXP",
+      "band": "R"
+    },
+    {
+      "targetid": 39633354928162610,
+      "morphology": "EXP",
+      "band": "Z"
+    },
+    {
+      "targetid": 39633358166165867,
+      "morphology": "DEV",
+      "band": "B"
+    },
+    {
+      "targetid": 39633358166165867,
+      "morphology": "DEV",
+      "band": "R"
+    },
+    {
+      "targetid": 39633358166165867,
+      "morphology": "DEV",
+      "band": "Z"
+    },
+    {
+      "targetid": 39633345021218271,
+      "morphology": "SER",
+      "band": "B"
+    },
+    {
+      "targetid": 39633345021218271,
+      "morphology": "SER",
+      "band": "R"
+    },
+    {
+      "targetid": 39633345021218271,
+      "morphology": "SER",
+      "band": "Z"
+    }
+  ],
+  "inputs_sha256": {
+    "doc/validation/lenghu_redshift_recovery_20261111/sersic_fiber_model_20261121/fiber_coupling_per_target.csv": "35daaf69d3b1996e42a806d41b1d372c4421c41ee46d715e41f8271220eec433",
+    "doc/validation/lenghu_redshift_recovery_20261111/sersic_fiber_model_20261121/summary.json": "c8e02d3e79661c88b38ef871ccf744a7090372b2c6cced8a0998c3db8c9dbc30",
+    "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/verify_mixture.py": "ae4bcaee42aa6566d7b1fcc10d177f4778f990ea519c9ad31003eaba590260d9",
+    "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/tractor_adapter.py": "2a1873ac44fb2ba7ca16f87872cd066c51d0453a2274628d10392e6b78ca0318",
+    "py/just_etc/mixture_fiber_coupling.py": "b1654e2f5aaa2fc0202739ca7eb435e0b7f445558f77f219693d60867dc4ebfc"
+  },
+  "redrock_run": false
+}

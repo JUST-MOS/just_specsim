@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "scope": "ESO input metadata and AB-unit checks only; not Lenghu site validation",
+  "models": [
+    {
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/lasilla_2400_zenith_0p01nm.fits",
+      "sha256": "91e7303baaab39066f8e3472bac7bfaee2eac11df50ad0f7e8bc955be23bd4fd",
+      "observatory": "2400",
+      "airmass": 1.0,
+      "wdelta_nm": 0.01,
+      "moon_enabled": "N"
+    },
+    {
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/paranal_2640_zenith_0p01nm.fits",
+      "sha256": "e32a33a68d0ff1c3a830de7a417a6e04abb5f3817b24e2bdb2064036e04575f1",
+      "observatory": "2640",
+      "airmass": 1.0,
+      "wdelta_nm": 0.01,
+      "moon_enabled": "N"
+    },
+    {
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/anchor_3060_zenith_0p01nm.fits",
+      "sha256": "b8f6b42716a7a3829988b9de07a0e7f114ed313c7c8db2006560e10ff0acfb8a",
+      "observatory": "3060m",
+      "airmass": 1.0,
+      "wdelta_nm": 0.01,
+      "moon_enabled": "N"
+    }
+  ],
+  "flat_fnu_AB_max_error_mag": 0.0,
+  "script_sha256": "f9496c46d6ab8a3c203360391771228228985ffb5fd5d9a20a6aee49376a985b"
+}

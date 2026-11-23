@@ -1,0 +1,15 @@
+{
+  "status": "complete_bright_subset",
+  "n_targets": 578,
+  "n_scenarios": 5780,
+  "sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "old_results_sha256": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+  "progress_sha256_at_analysis": "8bfc113599f2f14831b8fa4cddb0434263f2e1889b18450e0bc7c64cc3806bdd",
+  "analysis_sha256": "28533235b4074a64f1058a551de1c1032db97d7ab9053e98855cc90f47daed29",
+  "outputs": {
+    "success_curves.csv": "1bfffe78038987e9a2134afb6ac96f2971ff9915ccf98449ab1c349c75e23f98",
+    "exposure_thresholds.csv": "0e2d76d8e5f3020b964f5bd3f4492520e43afe1b74f43b6d5be39b92a86d7046",
+    "paired_outcomes.csv": "579a1dcc573644a80b36e3a830553f0f312c50dd03a3d4bfaabe61d1d00e1233"
+  },
+  "scope": "complete r0<19.5 test subset only; full r0<20.5 sample may still be running"
+}

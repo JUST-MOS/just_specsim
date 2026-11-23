@@ -1,0 +1,5 @@
+sample,criterion,nominal_s,status,dark_model_s,bright_model_s
+r<19.5,point,1817.0,first tested nominal time reaching criterion,1499.9961539753758,1875.024913351619
+r<19.5,bonferroni_lower,3436.0,first tested nominal time reaching criterion,2999.705980948406,3563.7262229841126
+r<20.5,point,3436.0,first tested nominal time reaching criterion,2999.705980948406,3563.7262229841126
+r<20.5,bonferroni_lower,3436.0,first tested nominal time reaching criterion,2999.705980948406,3563.7262229841126

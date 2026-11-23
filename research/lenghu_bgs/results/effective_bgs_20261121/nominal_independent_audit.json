@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "returned": 2664,
+  "attempted": 2664,
+  "all_target_ids_and_outcomes_checked": true,
+  "checks": [
+    {
+      "sample": "r<19.5",
+      "time_s": 1817,
+      "n": 578,
+      "success": 555,
+      "pointwise_lower": 0.9440931596695097,
+      "two_time_adjusted_lower": 0.9408881317276552
+    },
+    {
+      "sample": "r<19.5",
+      "time_s": 3436,
+      "n": 578,
+      "success": 563,
+      "pointwise_lower": 0.9603198391767689,
+      "two_time_adjusted_lower": 0.9575576709979651
+    },
+    {
+      "sample": "r<20.5",
+      "time_s": 1817,
+      "n": 1332,
+      "success": 1249,
+      "pointwise_lower": 0.9256805151077804,
+      "two_time_adjusted_lower": 0.9233372909204082
+    },
+    {
+      "sample": "r<20.5",
+      "time_s": 3436,
+      "n": 1332,
+      "success": 1289,
+      "pointwise_lower": 0.958567048616261,
+      "two_time_adjusted_lower": 0.9567605139020288
+    }
+  ],
+  "max_abs_confidence_difference": 1.0247358517290195e-13,
+  "method": "raw conditions plus scipy.stats.binomtest exact one-sided intervals",
+  "individual_sha256": "9d4fc8dc30991b531e191aabb2ec808e36362b2b8e837e95f15fa934f80e6cfb",
+  "curves_sha256": "5fd6d7fdcdf1a34075a0de4744e2e26c1642bd79175a61fa0a2105b2f125cd2a",
+  "script_sha256": "902c9163ec4bc2ca696fe7d07a4dca25be9de02e65c935678c6b88fbd252dfaa"
+}

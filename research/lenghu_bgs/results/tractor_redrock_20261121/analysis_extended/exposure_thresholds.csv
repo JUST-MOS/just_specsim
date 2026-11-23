@@ -1,0 +1,9 @@
+group,sky,model,n,time_s_point_95,time_s_adjusted_lower_95,time_s_point_90,time_s_adjusted_lower_90,required_successes_95,status_95,minimum_tested_s
+r_lt_19p5,dark,original,578,1500,3000.0,750,1500,562,met_on_tested_grid,750
+r_lt_19p5,dark,mixture,578,500,500.0,500,500,562,met_on_tested_grid,125
+r_lt_19p5,bright,original,578,2250,,1500,1500,562,not_confirmed_through_3600s,750
+r_lt_19p5,bright,mixture,578,500,500.0,500,500,562,met_on_tested_grid,125
+r_lt_20p5,dark,original,1332,3000,3000.0,1500,1500,1285,met_on_tested_grid,750
+r_lt_20p5,dark,mixture,1332,750,750.0,500,750,1285,met_on_tested_grid,125
+r_lt_20p5,bright,original,1332,3000,,1500,1500,1285,not_confirmed_through_3600s,750
+r_lt_20p5,bright,mixture,1332,750,1500.0,750,750,1285,met_on_tested_grid,125

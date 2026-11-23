@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "image_pixels": [
+    2160,
+    1600
+  ],
+  "local_links_checked": 10,
+  "outputs": {
+    "analysis_manifest.json": "673621d02048fba323887dbbd150c0f2e84fb0cd97fa948b7300467ce41e39b8",
+    "independent_audit.json": "5acd86da109dc3f1c6467947300032aeb6cc69a017c927834d9026947c4d7c74",
+    "success_curves.csv": "44d5630087526daffc1ac896765bd9d42f8341c8ee22dfadbed5909a8530c30b",
+    "exposure_thresholds.csv": "e5678580037bbebd425680d22232a7880352ef8d65a0547aac7ae652fb6af72e",
+    "individual_results.csv": "637548dac1933a8e1554dab5741b57a4121c3c14c4489055975919e838db5e74",
+    "figure_manifest.json": "34ed271f24ae40a0513ae6e7b29de8962eb811f84d2ed5269b933637e3157b73",
+    "recovery_comparison.png": "f35d22abfb900b9a0db6f385e4894ac685301633b20d33120a81c76350c94c23",
+    "recovery_comparison.pdf": "04453b1d2b2f2eccb08dfe5c48547917a00f37157b68670904f281002004d17a",
+    "RESULTS_zh.md": "1060169eb1fd949fd6de76c0520b83b3b24cb9e6a651494ea91bed71fcc1a1ee"
+  },
+  "script_sha256": "71d719af439f4644cf7e84965d3d336a187f94173b265884869c086c9837d7d2"
+}

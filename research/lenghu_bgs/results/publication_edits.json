@@ -1,0 +1,12 @@
+{
+  "high_sersic_legacy_20261121/REPORT_zh.md": {
+    "original_sha256": "e48c67185f31bfc2e1e507d366c04863f7049a87e2b00724031ca1e457c53881",
+    "published_sha256": "97f6d62631ebcbfae1c2cd42c3fcd00cff3e9c95f1c95d959fff52cdcd6ac2b5",
+    "change": "portable link text only; complete original retained in the Gravity archive"
+  },
+  "atmosphere_qiu_calibrated_20261115/README_zh.md": {
+    "original_sha256": "c29a703ab4d2d3457994c7321e630d7643fdc5dc2894c8592652ea9bea301b28",
+    "published_sha256": "c834d6b0900a8a48a30e5f755f359e8e28a43afd5a7e839ceab6d8009fc18855",
+    "change": "portable link text only; complete original retained in the Gravity archive"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "status": "exploratory; no sky/condition or multiple-group correction",
+  "source_sha256": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+  "model_inputs_sha256": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+  "dark_actual_s": 3000,
+  "bright_actual_s": 3600,
+  "dark_effective_s": 3436.34384016908,
+  "bright_effective_s": 3469.6076787909915,
+  "feature_information_by_arm_dark": {
+    "B": 214.39925023553806,
+    "R": 365.9079821248524,
+    "Z": 1426.3217900243635
+  },
+  "feature_information_by_arm_bright": {
+    "B": 174.08664511728557,
+    "R": 329.78306832044416,
+    "Z": 1530.6890970408879
+  },
+  "bright_to_dark_feature_information_ratio_by_arm": {
+    "B": 0.8119741320272098,
+    "R": 0.9012732283274378,
+    "Z": 1.0731723428376858
+  },
+  "bright_to_dark_feature_information_ratio_total": 1.0139187601605955,
+  "bootstrap": "20000 paired-galaxy multinomial resamples, seed 20261121; conditional iid targets",
+  "p_value": "exact two-sided binomial McNemar test on discordant same-target outcomes",
+  "limitations": "post-hoc comparison, same single input field, independent noise draws, 1% mismatch in proxy depth; not an on-sky validation"
+}

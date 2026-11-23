@@ -1,0 +1,8 @@
+{
+  "status": "sensitivity only; not an uncertainty bound or new Redrock run",
+  "perturbation": "coherently shift Qiu k bins by +sigma_k; outside 400-790 nm unchanged; -sigma omitted because some extinction coefficients become negative",
+  "ground_sky": "held fixed, as Qiu extinction measures source transmission not sky radiance",
+  "qiu_table_sha256": "e4b1a19443bd00f812fc454e6a3f23576a61fe12f04c8bccc4b8851dc9e1035f",
+  "depth_inputs_sha256": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+  "script_sha256": "84f9081a36bbe8f7b73579249611406198289ed6498ee18cd24957c8dabd1c2b"
+}

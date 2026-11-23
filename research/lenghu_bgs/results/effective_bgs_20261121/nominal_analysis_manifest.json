@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "attempted": 2664,
+  "returned": 2664,
+  "times_s": [
+    1817,
+    3436
+  ],
+  "sample_n": {
+    "r<19.5": 578,
+    "r<20.5": 1332
+  },
+  "success_definition": "ZWARN=0, DELTACHI2>40, |zfit-zVI|/(1+zVI)<0.0033; all preselected test targets as denominator",
+  "confidence": "one-sided 95% Clopper-Pearson with Bonferroni over the two nominal times within each group; no cross-group correction",
+  "input_scope": "same DESI reference field as earlier simulation; results are conditional, not on-sky JUST performance",
+  "progress_sha256": "346148a3a3e4906b0afb8dcebe3feca97bb9acbf6f811c96a2c6625332c1ec0d",
+  "results_sha256": "9d4fc8dc30991b531e191aabb2ec808e36362b2b8e837e95f15fa934f80e6cfb",
+  "curves_sha256": "5fd6d7fdcdf1a34075a0de4744e2e26c1642bd79175a61fa0a2105b2f125cd2a",
+  "subgroups_sha256": "711dee9cddc246fa5fc8b64b2ad50a7863e2c72f6c934ebaf546cb7ef497c107",
+  "paired_checks_sha256": "5ad6c58cd0b2b0af3496735391dbe36321206419e1d721d572f12a298f9eb06c",
+  "paired_scope": "post-hoc same-target tests, no multiple comparison correction",
+  "script_sha256": "0659003891afac9454015c93d92e03e18af1725fa7098e3bd22da4ea699426aa"
+}

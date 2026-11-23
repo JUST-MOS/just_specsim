@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "curves_checked": 52,
+  "thresholds_checked": 8,
+  "n_new_scenarios": 21312,
+  "max_exact_lower_difference": 3.4661162828797387e-13,
+  "max_exact_purity_interval_difference": 4.2099657093785936e-13,
+  "independent_test": "scipy binomtest one-sided exact confidence interval and p-value",
+  "script_sha256": "2034fc212111e0c2060cdb42e179f284bdcbc6347dd64f42e7e0349596ae0993",
+  "analysis_manifest_sha256": "673621d02048fba323887dbbd150c0f2e84fb0cd97fa948b7300467ce41e39b8"
+}

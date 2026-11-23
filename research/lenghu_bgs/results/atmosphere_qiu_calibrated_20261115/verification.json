@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "checks": [
+    "output hashes",
+    "analytic constant-optical-depth slope",
+    "zero correction recovers ESO",
+    "FITS units and reconstruction",
+    "bounded transmission",
+    "C1 continuum at joins",
+    "independent Gaussian-convolution spot checks",
+    "adapter guards fixed airmass",
+    "actual ETC bright/dark smoke"
+  ],
+  "airmass_qiu_same_zenith": 1.1991626299935287,
+  "independent_convolution_k_differences_mag_per_airmass": {
+    "400.0": 1.0536646623537926e-06,
+    "650.0": 5.609117363566951e-07,
+    "760.0": -3.594693496805634e-05,
+    "790.0": -5.5181775024393254e-08
+  },
+  "etc_smoke": {
+    "dark_B": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 0.9994449319872765
+    },
+    "dark_R": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 1.0006195749736668
+    },
+    "dark_Z": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 1.018397452689629
+    },
+    "bright_B": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 0.9994449319872765
+    },
+    "bright_R": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 1.0006195749736668
+    },
+    "bright_Z": {
+      "sky_max_relative_difference": 0.0,
+      "median_source_response_ratio_to_previous_hybrid": 1.018397452689629
+    }
+  },
+  "limitations": "Numerical/interface checks only; no independent physical calibration or Redrock rerun."
+}

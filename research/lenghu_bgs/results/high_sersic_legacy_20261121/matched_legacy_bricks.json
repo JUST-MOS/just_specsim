@@ -1,0 +1,71 @@
+{
+  "n_matched": 67,
+  "n_test": 56,
+  "files": [
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1051p547.fits",
+      "sha256": "ccfdf245b429ebb5c6d3817b69eaa4510c12ed621298772464ba09f02ac51efb",
+      "brick": "1051p547",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 5
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1056p545.fits",
+      "sha256": "4923bc35afa26f343a636b353558113e44e498b6ac823dbf16684c11a001fe6b",
+      "brick": "1056p545",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 1
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1060p545.fits",
+      "sha256": "1dff1d72f0a1289f7c6c3e0b8d9d5b8c529a0105ef5abc80da7f76de4ef08a32",
+      "brick": "1060p545",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 2
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1063p557.fits",
+      "sha256": "875fb2a82daf807efddc4f4fc7401f236a8e9cb0ed7fa81e25d01b602fc982f9",
+      "brick": "1063p557",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 19
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1065p545.fits",
+      "sha256": "51f9a56a4e9915b89807c367f49deffcce87b7dc424111c2e41f733139ce2353",
+      "brick": "1065p545",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 11
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1065p572.fits",
+      "sha256": "2e644069f95ba23e73cb43f4eb2f4bceb77852dc6d3d91eb5e880eb327764438",
+      "brick": "1065p572",
+      "legpipe": "DR9.6.2",
+      "tractor": "dr9.4",
+      "photutils": "0.7.2",
+      "targets": 13
+    },
+    {
+      "path": "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/reference/legacy_dr9_north/tractor-1067p562.fits",
+      "sha256": "a27624998a7af0c47cba6f6ed524af1e48e8ba2fefa8fc0a05810077faf4feb5",
+      "brick": "1067p562",
+      "legpipe": "DR9.6.7",
+      "tractor": "dr9.4",
+      "photutils": "1.0.1",
+      "targets": 16
+    }
+  ],
+  "sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "redrock_run": false
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "start": 1258,
+  "galaxies": 50,
+  "scope": "Only validated spectra and sidecars hard-linked; interrupted Redrock outputs remain in staging.",
+  "files": {
+    "test_1258_spectra_truth.csv": "f6cacdc218912e74cd40a7c06e8fb1af0828a9f9e9d49aa29c7cae5e660a707e",
+    "test_1258_spectra_masks.csv": "12174c24db8ac58769cb6c8b65b113e5ce5ac9e61b544a529c39fe20eb2da8b0",
+    "test_1258_spectra_manifest.json": "85cfbdaa33f860df14f29a8cd8a9ffb2243c3e207a6b373a1c7f8a5366eaff4b",
+    "test_1258_simulation.log": "bf08672fcbbf3ecf1179e21133b44051093f7b61d6a14c2dd8f064e815deb3ba",
+    "test_1258_spectra.fits": "7ffd8484ef939a545040a4d1084946b2f905ca0a6134d378ee10a28599f03a79"
+  }
+}

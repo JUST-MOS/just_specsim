@@ -1,0 +1,115 @@
+{
+  "status": "passed",
+  "scope": "Proxy-only atmosphere sensitivity; fixed sky, wavelength mask, source and instrument assumptions; not a new redshift simulation or validated confidence interval.",
+  "nominal_airmass_scaling": "T(X=1)=T(X=1.2)**(1/1.2) at high-resolution pixels before interpolation; same approximation as candidate construction",
+  "cases": [
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "nominal",
+      "seconds": 1817.0,
+      "q_total_ratio": 1.0149642803249679,
+      "q_B_ratio": 1.000622198331698,
+      "q_R_ratio": 1.0004562197282842,
+      "q_Z_ratio": 1.0215117523838324
+    },
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "nominal",
+      "seconds": 3436.0,
+      "q_total_ratio": 1.014784829602967,
+      "q_B_ratio": 1.0006295521554818,
+      "q_R_ratio": 1.0004533040049761,
+      "q_Z_ratio": 1.0215701784553846
+    },
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "dark",
+      "seconds": 1500.0,
+      "q_total_ratio": 1.0183258321109057,
+      "q_B_ratio": 1.0005290200396846,
+      "q_R_ratio": 1.0004817673223563,
+      "q_Z_ratio": 1.0255105230499273
+    },
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "dark",
+      "seconds": 3000.0,
+      "q_total_ratio": 1.0183312197586234,
+      "q_B_ratio": 1.0005293995426565,
+      "q_R_ratio": 1.0004814666655415,
+      "q_Z_ratio": 1.0255862894877839
+    },
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "bright",
+      "seconds": 2250.0,
+      "q_total_ratio": 1.0195270361182378,
+      "q_B_ratio": 1.0005369430788784,
+      "q_R_ratio": 1.0004914094385684,
+      "q_Z_ratio": 1.0257904282719839
+    },
+    {
+      "candidate": "atmosphere_center_constant.fits",
+      "scene": "bright",
+      "seconds": 3600.0,
+      "q_total_ratio": 1.0195961668377178,
+      "q_B_ratio": 1.000536132688625,
+      "q_R_ratio": 1.0004920059793412,
+      "q_Z_ratio": 1.0258798244432976
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "nominal",
+      "seconds": 1817.0,
+      "q_total_ratio": 1.0112789617689946,
+      "q_B_ratio": 1.000622198331698,
+      "q_R_ratio": 1.0004562197282842,
+      "q_Z_ratio": 1.0161556278624153
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "nominal",
+      "seconds": 3436.0,
+      "q_total_ratio": 1.0111968595872614,
+      "q_B_ratio": 1.0006295521554818,
+      "q_R_ratio": 1.0004533040049761,
+      "q_Z_ratio": 1.0162749893630536
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "dark",
+      "seconds": 1500.0,
+      "q_total_ratio": 1.0136708683238536,
+      "q_B_ratio": 1.0005290200396846,
+      "q_R_ratio": 1.0004817673223563,
+      "q_Z_ratio": 1.0189794619629429
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "dark",
+      "seconds": 3000.0,
+      "q_total_ratio": 1.0137064226068893,
+      "q_B_ratio": 1.0005293995426565,
+      "q_R_ratio": 1.0004814666655415,
+      "q_Z_ratio": 1.0190798669874632
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "bright",
+      "seconds": 2250.0,
+      "q_total_ratio": 1.0145295586103884,
+      "q_B_ratio": 1.0005369430788784,
+      "q_R_ratio": 1.0004914094385684,
+      "q_Z_ratio": 1.0191472431870747
+    },
+    {
+      "candidate": "atmosphere_center_relax870.fits",
+      "scene": "bright",
+      "seconds": 3600.0,
+      "q_total_ratio": 1.0146044721403447,
+      "q_B_ratio": 1.000536132688625,
+      "q_R_ratio": 1.0004920059793412,
+      "q_Z_ratio": 1.0192449719148562
+    }
+  ]
+}

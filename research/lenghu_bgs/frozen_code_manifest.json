@@ -1,0 +1,29 @@
+{
+  "description": "Exact archived historical code; not itself a portable entry point",
+  "created_utc": "2026-11-23T13:46:55.422462+00:00",
+  "tractor_license": "GPL-2.0; retained with the referenced upstream files",
+  "files_sha256": {
+    "pilot/compare_sky_models.py": "d2dd9d2e6cc5537e8c3c29d42ce59d7312719e274656b55a10b8fea655fb8d13",
+    "pilot/refine_sky_sampling.py": "50056503ac4dc37d3ef9a0ec08e330bb47569cb7ed9fd0ca692079b3464e771f",
+    "pilot/simulate_integrated_smoke.py": "7c4359b1a8e42112ca40a1ec8f771b6839014864e2504f1d558571f2e5e3cc2c",
+    "pilot_4200/lenghu_etc.py": "c2808296e063a89208830af9da2b3cdaf22019061f945642914cc5f34696f4bf",
+    "instrument/theoretical_lsf.py": "3b4bd0860626b62ad10b0fedb6de4cb0847675cdeb220c6df8fde8bcba34987b",
+    "population_4200_camera_overlap/simulate_batch.py": "1aa1b377f5a2fb90fc7b00caef28877eda4dc7bea843735e19a541e2559284c2",
+    "population_4200_camera_overlap/fit_batch.py": "5c457915a0d0cfe12c9c7c3a1a61b1bb80e22ff47f8b8fc105891a214fb765f9",
+    "population_4200_camera_overlap/fit_batch_cached.py": "d4fafc861365b96dcd612eeb901aaf7f00f018e03c81fb7d258334fb1d459a9e",
+    "population_4200_camera_overlap/rrdesi_015_cached_spawn.py": "f750fb8cd23e2689bb8c737eb1224ec393d0c85398123f25a991f755ebff024c",
+    "high_sersic_legacy_20261121/compare_tractor.py": "0e8aae7761de97885141671f606a8b653bdb2bf6e81ef0b70d3fabaaa3ea106e",
+    "high_sersic_legacy_20261121/tractor_adapter.py": "2a1873ac44fb2ba7ca16f87872cd066c51d0453a2274628d10392e6b78ca0318",
+    "high_sersic_legacy_20261121/verify_mixture.py": "ae4bcaee42aa6566d7b1fcc10d177f4778f990ea519c9ad31003eaba590260d9",
+    "high_sersic_legacy_20261121/reference/tractor_dr9_4/sersic.py": "2221894a60b5cc07b333b7ae8f084f0568cc589a4085d44b49946436c25e97d0",
+    "high_sersic_legacy_20261121/reference/tractor_dr9_4/mixture_profiles.py": "e5ac952f1645bcf0dd9b8390c39cb6fabb800f760f99bf409a16897bbdfcb186",
+    "high_sersic_legacy_20261121/reference/tractor_dr9_4/LICENSE": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6",
+    "tractor_redrock_20261121/simulate_tractor.py": "8aabddbce3f647d2b666e7dd524c1ae82d71b2c2e98a7a56ad4cf580d0a22f9b",
+    "tractor_redrock_20261121/simulate_short.py": "43c4f8a4bd1eb6103cbb21dc9b0e5d26545b902f419fbd729478779de8dbad22",
+    "tractor_redrock_20261121/analyze_scan.py": "4aefcba5194d9f7a6e2c5366ec04ce2e3db2af97b79ce6e87764538865bbd98f",
+    "tractor_redrock_20261121/analyze_eight.py": "ade3f38967cd7b529de4c9ffadf0fe9639689478f3bb48dfbecaca763b5a09bb",
+    "tractor_redrock_20261121/plot_eight.py": "9e41d736489855811bd4cb10ab21fbfda41fce8a2903186eb51041b2c80beb13",
+    "tractor_redrock_20261121/run_scan.py": "a3b2e2537b6ef078cec0dfd03d2acc6a190d66e99cdbc362223484876961afdd",
+    "tractor_redrock_20261121/short_scan.py": "cb04202373277992163fe3f50469fc77b9b43a100ae12fae1296c132e2dc41d0"
+  }
+}

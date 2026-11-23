@@ -1,0 +1,143 @@
+{
+  "objective": "two nominal depths for all 1332 held-out galaxies",
+  "times_s": [
+    1817,
+    3436
+  ],
+  "splits_s": [
+    [
+      750,
+      750,
+      317
+    ],
+    [
+      750,
+      750,
+      750,
+      750,
+      436
+    ]
+  ],
+  "batches": [
+    {
+      "start": 0,
+      "count": 8
+    },
+    {
+      "start": 8,
+      "count": 50
+    },
+    {
+      "start": 58,
+      "count": 50
+    },
+    {
+      "start": 108,
+      "count": 50
+    },
+    {
+      "start": 158,
+      "count": 50
+    },
+    {
+      "start": 208,
+      "count": 50
+    },
+    {
+      "start": 258,
+      "count": 50
+    },
+    {
+      "start": 308,
+      "count": 50
+    },
+    {
+      "start": 358,
+      "count": 50
+    },
+    {
+      "start": 408,
+      "count": 50
+    },
+    {
+      "start": 458,
+      "count": 50
+    },
+    {
+      "start": 508,
+      "count": 50
+    },
+    {
+      "start": 558,
+      "count": 50
+    },
+    {
+      "start": 608,
+      "count": 50
+    },
+    {
+      "start": 658,
+      "count": 50
+    },
+    {
+      "start": 708,
+      "count": 50
+    },
+    {
+      "start": 758,
+      "count": 50
+    },
+    {
+      "start": 808,
+      "count": 50
+    },
+    {
+      "start": 858,
+      "count": 50
+    },
+    {
+      "start": 908,
+      "count": 50
+    },
+    {
+      "start": 958,
+      "count": 50
+    },
+    {
+      "start": 1008,
+      "count": 50
+    },
+    {
+      "start": 1058,
+      "count": 50
+    },
+    {
+      "start": 1108,
+      "count": 50
+    },
+    {
+      "start": 1158,
+      "count": 50
+    },
+    {
+      "start": 1208,
+      "count": 50
+    },
+    {
+      "start": 1258,
+      "count": 50
+    },
+    {
+      "start": 1308,
+      "count": 24
+    }
+  ],
+  "redrock_processes": 2,
+  "selection_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "normalized_spectra_sha256": "8ed9d814fe97a4e3f6f147d1b0880e2b39bf0cf407d393d6e301e90f31927fb4",
+  "lsf_sha256": "7171ba06fc35a063610dc596a0fbaefea70d38e054a9e0b7f8e792baf7189dc4",
+  "nominal_instrument_sha256": "0884dae20bde5f254dfd5f5b1d469b2e688e46bf3044b7be5dc953dc68a20aa0",
+  "simulator_sha256": "f357a364af7fdaf49a2422e88e7ae6b56b8decb888e6dc015445d094744781bc",
+  "driver_sha256": "fbf3892430c7da4aae32ad3b42dfa30ebb7d81b98b707bc02564ec84ed99a5d0",
+  "fitter_sha256": "b7800702a6a9c93832f4da588d82753129ca4db9d36b1a38a7674e4c64e28ec4"
+}

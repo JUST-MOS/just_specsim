@@ -1,0 +1,228 @@
+{
+  "status": "complete",
+  "n_test": 1332,
+  "n_old_rows": 13320,
+  "n_new_rows": 13320,
+  "times_s": [
+    750,
+    1500,
+    2250,
+    3000,
+    3600
+  ],
+  "skies": [
+    "dark",
+    "bright"
+  ],
+  "files": [
+    {
+      "start": 0,
+      "galaxies": 5,
+      "spectra_sha256": "94ce26368f797781670629827f89c8cd318b430461fc6c5dd1a1abb0f8d548e0",
+      "redrock_fits_sha256": "067ec882faf2162914a98d8827f4891c5f4d8976090a8928062e4312d75976c3",
+      "redrock_csv_sha256": "615fc34db0fc91120957e016315cb010dd36d5ea1951ca36334b6b7082927c51"
+    },
+    {
+      "start": 5,
+      "galaxies": 50,
+      "spectra_sha256": "1e43073e7843e4e5d9e4aae63c3e8326fd430a67a5502607c8f14116a5853519",
+      "redrock_fits_sha256": "e427d7cee6288d5d363089237736d5749a360cca39b8b0fc03e718c968ee4276",
+      "redrock_csv_sha256": "fbbab8722f871b341b7c44952957a3f0f465a12ba8689185d6cb07c29144ec04"
+    },
+    {
+      "start": 55,
+      "galaxies": 50,
+      "spectra_sha256": "5f610fb855d86b2e644179827bb594c618d06992824e3c8d94e47962bcb6a2e9",
+      "redrock_fits_sha256": "d4b30acf08c32536927337676bab68c06a4ff5b911292156fcf5042d0d180aab",
+      "redrock_csv_sha256": "9ca967518f7173d50e43e0fb13ed518bbfe1cca39cad78cfec7ef65bfa87be47"
+    },
+    {
+      "start": 105,
+      "galaxies": 50,
+      "spectra_sha256": "238855ed50ffa0f189eb59e9d35e6e319cfddfff6e03c02fbcd17aabc5d7c86b",
+      "redrock_fits_sha256": "0213713402fff1d3aad0929ec4ae7fa71daff697a5aab13fe1e6e2717d725aa1",
+      "redrock_csv_sha256": "05b58f68ced3bfb4e0865f6825461986676955b18c89776eb33714306e8537f0"
+    },
+    {
+      "start": 155,
+      "galaxies": 50,
+      "spectra_sha256": "7eab65b62da91eb60bcbb955bbe32501dd6a467232539b639c547ad639bbd09c",
+      "redrock_fits_sha256": "1faee925eba8b4e3f3c89420d70461bdaccee3e80ab0574c358efd60701bc975",
+      "redrock_csv_sha256": "4fc75b506132af81616247e1ac31fa40b4718999aedd340eebee53f0fb13715e"
+    },
+    {
+      "start": 205,
+      "galaxies": 50,
+      "spectra_sha256": "f45fa5cd097ae809349d08a9edfa180ab49c6e68a12be9533fccb3caa7e41b70",
+      "redrock_fits_sha256": "de5464baa0d30ae272d83576166b3211a792ffab76c0e25420b7f6209e3e557a",
+      "redrock_csv_sha256": "fce1592cd4a32c59badf7c52a5e6dc0dd92b3a0428d5eb3923f1c2425095e481"
+    },
+    {
+      "start": 255,
+      "galaxies": 50,
+      "spectra_sha256": "f5f6d4f2ebe7270d49bc64ce9f512d09442474f2b8b5e507a186063fac3bd390",
+      "redrock_fits_sha256": "26fe9c98c42ea61b050ba897153950a74c4fe8b19fd24ca11743c46e6bd2c19c",
+      "redrock_csv_sha256": "8b7df6f684013c443b23efa467cd6da38ee1c4e330877b0fd6eef36fd136a2c7"
+    },
+    {
+      "start": 305,
+      "galaxies": 50,
+      "spectra_sha256": "1597b0a5d46a5e945c01338970ca807fad6dfd5abd2bc03326161033cd4c572d",
+      "redrock_fits_sha256": "767b321df338222f7b64de21277430b36ac3d6d3595f5527d1d54d39cdd122fd",
+      "redrock_csv_sha256": "a81fcbcdb28b0345402c728eea4662b7c8e2205b77bea9ebda74ab4fcfb8caef"
+    },
+    {
+      "start": 355,
+      "galaxies": 50,
+      "spectra_sha256": "5b525ee41811d6fc7ccc325e63b4e90113c98fad53dc2fee1e069f571222b5a7",
+      "redrock_fits_sha256": "8a47a0df67a13a9304b65fc601d88890666676cd081ff56458913e156ba9c5d0",
+      "redrock_csv_sha256": "a18a4e062dab8368ec86aebf560d92d3923ed717e734255a18da1c862f46830f"
+    },
+    {
+      "start": 405,
+      "galaxies": 50,
+      "spectra_sha256": "ba0993259b48b7a211802c9ce3141747254935504451daf327d87d8a117dfcb2",
+      "redrock_fits_sha256": "615166aa0883a7d3dc73bf77b11a4cedffbc29c2d9ec123b7a4addb8a4ce7378",
+      "redrock_csv_sha256": "45427a9269004d3fa563ac977aa37a20f21605a685f73227d0937cf205a5ad99"
+    },
+    {
+      "start": 455,
+      "galaxies": 50,
+      "spectra_sha256": "3b2863d9d10ae3805edd8f1c7a452fd8bc6fcd76a0d471f91cd000617ef93d08",
+      "redrock_fits_sha256": "46865af2228e880f7e3bba687d238fc03c1d61e5dc64aaac55c6d1d1ac4ec1a2",
+      "redrock_csv_sha256": "658e5d6a80e6dbe717774b1d515ce99f7290c1bffaf8aa21ab60217dd01ca87b"
+    },
+    {
+      "start": 505,
+      "galaxies": 50,
+      "spectra_sha256": "a8c7b174f45c635e665ba04d1d6bf24f289fd7f3473cfcc1456695b3a6c6a936",
+      "redrock_fits_sha256": "bac2f9b423f7dd742cadf377c6cf7e55e4e48a81acbc6fd6eda5cca6d90b1887",
+      "redrock_csv_sha256": "0d8ab62b53702534e15a8082bac40f8b49556598ee82c0f5e354d36d81abc5a2"
+    },
+    {
+      "start": 555,
+      "galaxies": 50,
+      "spectra_sha256": "c77fc8c04b22d5bfc2f508b6c1ad01f02faf65b0bc78994e27b1b3519560d41a",
+      "redrock_fits_sha256": "e1411b04870433f2a9d07ac6c8535f548e886c328254e7bc071ac21e4ec83489",
+      "redrock_csv_sha256": "58283ee5132ad49896b3f45c9532d7bfe8e1e0280d53364b8687257c6bd467d9"
+    },
+    {
+      "start": 605,
+      "galaxies": 50,
+      "spectra_sha256": "f2bb1b913fab1572804ba4b1d34fe7aa74a7215e9e42fe178f5281b5b2643e28",
+      "redrock_fits_sha256": "cd340a2eda412dd6f6f73e12f87e60682dd4bf01500044d249132d66f97ff18c",
+      "redrock_csv_sha256": "d577964e42393c84fd32c2a4b9b2092220affa28a6a6a8890117a7550b516f2a"
+    },
+    {
+      "start": 655,
+      "galaxies": 50,
+      "spectra_sha256": "393a6ec787df15056db5d063f21a8d1ee49151cd9b9a45fa842c2362dfa18004",
+      "redrock_fits_sha256": "46ea2a5444ae8ae81b79c7a70a504f0f5d8850c5ef40b6be6897f83cf0f51ad2",
+      "redrock_csv_sha256": "bdea2382f4b37bb00ffca26029c119674226580dcdd997186f4d4914019b5466"
+    },
+    {
+      "start": 705,
+      "galaxies": 50,
+      "spectra_sha256": "ce7a9fff081e875648357da660db2877bfcea65118f7c83f3eb23768108076d4",
+      "redrock_fits_sha256": "5e240cd1f2bff25c5741600e34ab29cc4ab1a96c393b810efbf3fe1b2987dece",
+      "redrock_csv_sha256": "efa24c55fffcd725d9e45826d75a9c8250c3dacfda2a90bf8a1bbeeb75ac890e"
+    },
+    {
+      "start": 755,
+      "galaxies": 50,
+      "spectra_sha256": "ce0b73fafe41b86c5b8cf0d5a6be519a2fd4d82a656b6e9ab5010c80f7f44635",
+      "redrock_fits_sha256": "5690f0aa42b292cb76460d93c0428d11cf20ffa67085ff009e8447224e3de26d",
+      "redrock_csv_sha256": "4dface36ce07f669e9573e658020106b58690a5368e56f6d57fc41b0c86053d2"
+    },
+    {
+      "start": 805,
+      "galaxies": 50,
+      "spectra_sha256": "19b47efb1a6c2aa72c420b840fc764846566d2c81437d039da3631e2473fa0ae",
+      "redrock_fits_sha256": "c1bfe4ba1ae534f451e2146d1e56237a92d229cc8405f8111e530714e809f510",
+      "redrock_csv_sha256": "6202fa1b83c8b00ba8813ab5a58b12b6c4181daed838827dda42a9ed19eef541"
+    },
+    {
+      "start": 855,
+      "galaxies": 50,
+      "spectra_sha256": "836e45930435fb57b67b42b318d457770e4de9cbfb4e3f33dc87c5cbcc53c268",
+      "redrock_fits_sha256": "92b21388ee966796eb861d961e6807e3e71b6a84300057b829609f0eb29878bb",
+      "redrock_csv_sha256": "c2c097fe81e8a15bbf4558511aca6b6863307ceae0f4c97b13a8cad167ab8b25"
+    },
+    {
+      "start": 905,
+      "galaxies": 50,
+      "spectra_sha256": "0a93a08db5d94d102aa98c0f728eb0500486e7aa5fbee3072e2a3d283418ecba",
+      "redrock_fits_sha256": "b03c443bba7481b583b15baf378e964ab2835980986d62fb44e8b20eddead9d3",
+      "redrock_csv_sha256": "78a3841ee124b9aacefa9c19b36c9e93800ac8b24fc01f7e2473f88805dbda8b"
+    },
+    {
+      "start": 955,
+      "galaxies": 50,
+      "spectra_sha256": "1c1ca32658cfce1a582580663edf5937035651d51d124899d7523fcf1c37dd6f",
+      "redrock_fits_sha256": "e28e514b6b82f4fbcdee39442b06cea23529087463660ce3a1c7fc74a244aff9",
+      "redrock_csv_sha256": "6b724fdd0b0df25c3c4519e372afd07b8cf3ea8dc49173774ed123fcb08c25cb"
+    },
+    {
+      "start": 1005,
+      "galaxies": 50,
+      "spectra_sha256": "f409a1324963620faaeb3676557423cae2ffc1bd0e5d0cd9b6aa0c3ec673eb94",
+      "redrock_fits_sha256": "e4d7dc06318dea69ac942ffd2dc3c97448405c3256dd4b44b7724c74d0ea9331",
+      "redrock_csv_sha256": "b70d381d7f20acee527919a07c0f0258d499f868b6536a2f830bfdcf6632f18e"
+    },
+    {
+      "start": 1055,
+      "galaxies": 50,
+      "spectra_sha256": "8cebe46c79ffd60277d102c57c71d154c849426460ba3a83bf27ecda84aa20d9",
+      "redrock_fits_sha256": "e648c0d9e1aa812542f9c6a29a2ba20652f3302b94c2108bcb28bbf438a3ac36",
+      "redrock_csv_sha256": "1c7725e48b2ac9abc0240d53b839206ea05ecc36b9caf8c64be2750230994d56"
+    },
+    {
+      "start": 1105,
+      "galaxies": 50,
+      "spectra_sha256": "70fef2f6f8dcbb091ddc8cf0b44edfd440c9c923f12fe0b0426a6a5afa29724e",
+      "redrock_fits_sha256": "6a1a676f8856d477d1ccfd42f4bf8fd47e3b4024b214a17796acb25becc58c64",
+      "redrock_csv_sha256": "7f0a03a47709057eb30861656383815385d67b21a510f3151b9e3a8cf526fbe4"
+    },
+    {
+      "start": 1155,
+      "galaxies": 50,
+      "spectra_sha256": "9d7f1cca9cb45b4f6fb38c9ea891af46ec1c5a421d9823c59abf9df5c2a2cab6",
+      "redrock_fits_sha256": "5e2d44c8b6dffcc18c1656261651b3408c5d301863d8fc0556c2e3ef4885bab6",
+      "redrock_csv_sha256": "d906eaee9f9843f5e31f8a3d0301158ea88fa13309f0acf44dde658dea8ba24a"
+    },
+    {
+      "start": 1205,
+      "galaxies": 50,
+      "spectra_sha256": "aace4978c55fd8ae8f43efdaf078124e4675302be54280ae393005912cac1b2d",
+      "redrock_fits_sha256": "3eb2aeefaabb2b2f533fb5ea710ba217cc46e22947fc9714c7914d27fcd7e0a1",
+      "redrock_csv_sha256": "e87f0a2a647e05722ce7caf986b76db5fa6c86087724cce51dda6a5c3df51195"
+    },
+    {
+      "start": 1255,
+      "galaxies": 50,
+      "spectra_sha256": "c7beaca6babffe51c0f20012bae13fafef6df91b343b68dd179bd545f58b057e",
+      "redrock_fits_sha256": "5270cdc0aff6031a5fe17476f961aea7c57a1f501060354a98f97c65aafea83a",
+      "redrock_csv_sha256": "18bff10375becc194eeee507f4c097d6965e9baecca954887abddaea6fe04a6f"
+    },
+    {
+      "start": 1305,
+      "galaxies": 27,
+      "spectra_sha256": "f0e3bc7d5fed7e6c7c009b21d430a68db5fbc77a84492ae41e6edf9663622e59",
+      "redrock_fits_sha256": "e1bc35d7935dbf10912ec738d03424e4258e492f496a6e4ae9f790590cfbdac2",
+      "redrock_csv_sha256": "339d888bb46b449a671eb5899a35c70e163ba8268eb3df56e34a6b085fc24dc9"
+    }
+  ],
+  "sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "old_results_sha256": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+  "run_plan_sha256": "032590af7dacea26cecfa90d2698dbab3758720d4b8cdd4a59962c5da40342c5",
+  "progress_sha256": "9b86d5d3658efa92acbcffaa6c754ac0a04dbe707ce73939f7b694cabd369a70",
+  "analysis_script_sha256": "4aefcba5194d9f7a6e2c5366ec04ce2e3db2af97b79ce6e87764538865bbd98f",
+  "outputs": {
+    "individual_results.csv": "50dcddf759583a3b68afe8336bdef1df58ac969936b80520dd5af4bc41c1966c",
+    "success_curves.csv": "62d73494ff19b33a88f943d5e6cfc7e010d0799e3fa104194de070cfd5981602",
+    "exposure_thresholds.csv": "539b4472750ee39522810a707bea0fba3e143f274f5b2568e0f0b7bb7009007a",
+    "paired_outcomes.csv": "7bd58336992398702e21580b5145dec5d5d9dd3d62b529903c597f6decb5484b"
+  },
+  "confidence": "one-sided exact 95% lower, Bonferroni over five times per group/sky; no cross-group adjustment",
+  "limitations": "Selected field and model assumptions; sample true redshifts are reference measurements, not wholly independent of source modeling."
+}

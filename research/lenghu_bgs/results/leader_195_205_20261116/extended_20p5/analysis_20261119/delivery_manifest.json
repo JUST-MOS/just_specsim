@@ -1,0 +1,86 @@
+{
+  "status": "complete",
+  "created_utc": "2026-11-19T12:58:44.450861+00:00",
+  "test_galaxies": 1332,
+  "new_galaxies": 441,
+  "total_scenarios": 13320,
+  "new_returned": 4410,
+  "audit": "passed",
+  "files": [
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/RESULTS_zh.md",
+      "bytes": 7051,
+      "sha256": "435014324cd438409e6e1ade8916c46eb715e73046171b299c131e54a1e1ccb9"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/success_curves.csv",
+      "bytes": 59536,
+      "sha256": "ea76b06a773132694d63c1521106f2816e47d06effe6145b275b7d8a69407718"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/exposure_thresholds.csv",
+      "bytes": 13844,
+      "sha256": "310e757cf876f1f5d7341dee1c7dffdadbdd66127b9ab5a45fa460540703ad5a"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/individual_results.csv",
+      "bytes": 3938405,
+      "sha256": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/analysis_manifest.json",
+      "bytes": 5473,
+      "sha256": "8c6f3b89327f01fbfa27e98a9524e371d971446cb09676f37c4d94974bf47811"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/independent_audit.json",
+      "bytes": 613,
+      "sha256": "2166364d9a0243c1fb76c8d05c72731607bc7fb6fd721bac2768db5f732d2cd0"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/old_analysis_reproduction.json",
+      "bytes": 618,
+      "sha256": "5267580ecb8a87284a2df41d5e13f101f2447c6efde88fa830d77a9ffb4324f6"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/figure_manifest.json",
+      "bytes": 787,
+      "sha256": "8d6c0daf38ceaf19ddc989be95e66cc7a0fc8c2a6fca88cc4dd584656d94b215"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/recovery_20p5.png",
+      "bytes": 192672,
+      "sha256": "b633a9c124ae19d392157234f5781f6e5e02da236ed90664652591646c97097f"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/recovery_20p5.pdf",
+      "bytes": 27964,
+      "sha256": "21735dd422ffd5e127b4f6853273c57f1466ef8293a16c630dd699ce0725fc61"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/run/progress.json",
+      "bytes": 1476,
+      "sha256": "ecbb6ec531f0a8183d507b3140fded32d60e7ba4e1ccc918e3edc3ef333e179d"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/analyze_20p5.py",
+      "bytes": 11396,
+      "sha256": "2e104002e9bf9a174f77409e783c5f80827f347fb79461b731ed62c9e8ef435f"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/audit_20p5.py",
+      "bytes": 7140,
+      "sha256": "881b8c36f81d2c53613d0da7a041e06bd046158cc6ffc8a5f7011914fdd445c4"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/plot_20p5.py",
+      "bytes": 4254,
+      "sha256": "f28df1a5386f5895b8684fe3d272c667a41bc281f10e13632e7d7fb49d83f02e"
+    },
+    {
+      "path": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/report_20p5.py",
+      "bytes": 10232,
+      "sha256": "5990aa863c6f4feda298cecd0e10a0f482d789f5234ff023a649ba5c0bfd7671"
+    }
+  ]
+}

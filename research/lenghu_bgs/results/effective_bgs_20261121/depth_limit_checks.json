@@ -1,0 +1,13 @@
+{
+  "status": "passed; numerical identities and limits only",
+  "identical_scene_max_time_error_s": 4.547473508864641e-13,
+  "sky_dominated_4x_time_ratio_abs_error": 0.0,
+  "bright_0p8_to_1_transparency_Q_ratio": 0.6517897859708573,
+  "dust_0p1_to_0_Q_ratio_by_arm": [
+    0.4956614718700134,
+    0.6162332204884399,
+    0.7273091918035735
+  ],
+  "depth_inputs_sha256": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+  "script_sha256": "8a5cd8c06db98a901481b99befe290bc356375666a3b79d583bf9da56e3d517d"
+}

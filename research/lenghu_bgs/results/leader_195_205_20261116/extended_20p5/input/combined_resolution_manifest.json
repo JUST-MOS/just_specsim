@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "new_lsf_galaxies": 545,
+  "combined_lsf_galaxies": 1681,
+  "combined_nodes_sha256": "7171ba06fc35a063610dc596a0fbaefea70d38e054a9e0b7f8e792baf7189dc4",
+  "new_nodes_sha256": "b9cf1e99cbb3ce39c8e6422b5e6c634a59abf5092edc4a7877716ca1244f054a",
+  "original_nodes_sha256": "346b631bf48c6f63e3b74fed736ac151ec0c276027c1ecdd4bc7682013820cfd",
+  "new_resolution_manifest_sha256": "9e4ca5b759c91ae4f26088a20af2d06bcbd5698e4dce06fa743fa401a55742fa",
+  "original_fetch_script_sha256": "8cf015d250261d19e713d8f0da4bc3471850b53b36e952d90fc766241660a1a1",
+  "wrapper_sha256": "032fc4316788460b6ff2e4bf5bd32e7c88c58eceade39adc49edd8408bba0a4a",
+  "scope": "DESI moment-Gaussian source LSF; invalid nodes remain masked"
+}
