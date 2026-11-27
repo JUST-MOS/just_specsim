@@ -1,0 +1,55 @@
+{
+  "status": "illustrative interpolations, not a direct nominal Redrock result",
+  "sample": "578 selected DESI EDR VI galaxies, r0<19.5, 0.1<zVI<0.4",
+  "interpolation": "linear 250-500s and monotone PCHIP 125-750s; independent noise at each time",
+  "reference_source": "Tractor DEV, circular 1.5 arcsec catalog scale, total r0=19.5",
+  "scenario_ebv": 0.053360361999999995,
+  "scenarios": {
+    "dark": {
+      "counts": [
+        464,
+        566
+      ],
+      "times_s": [
+        250,
+        500
+      ],
+      "success_fraction": [
+        0.8027681660899654,
+        0.9792387543252596
+      ],
+      "effective_times_s": [
+        280.0355715856604,
+        574.4893554563184
+      ],
+      "interpolated_actual_s": 458.57843137254883,
+      "effective_from_interpolated_actual_s": 525.0269623890777,
+      "interpolated_effective_s": 525.7024049914739,
+      "pchip_actual_s": 409.67239423232024,
+      "pchip_effective_s": 466.9395090140609
+    },
+    "bright": {
+      "counts": [
+        456,
+        563
+      ],
+      "times_s": [
+        250,
+        500
+      ],
+      "success_fraction": [
+        0.7889273356401384,
+        0.9740484429065744
+      ],
+      "effective_times_s": [
+        269.2192401277398,
+        535.3675854764726
+      ],
+      "interpolated_actual_s": 467.52336448598123,
+      "effective_from_interpolated_actual_s": 501.0493304428039,
+      "interpolated_effective_s": 500.79317425827264,
+      "pchip_actual_s": 423.4979877225013,
+      "pchip_effective_s": 454.40496770007684
+    }
+  }
+}

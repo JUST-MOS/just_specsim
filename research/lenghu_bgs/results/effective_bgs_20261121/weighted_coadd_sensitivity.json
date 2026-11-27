@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "interpretation": "Ideal inverse-covariance weighted stationary-scene sensitivity, not used to generate the Redrock spectra and not validated against Redrock.",
+  "equal_duration_relative_error_max": 1.648497446829309e-16,
+  "direct_covariance_relative_error_max": 3.8565286924078256e-16,
+  "weighted_q_just_after_over_at_3000": 1.000000000000987,
+  "cases": [
+    {
+      "nominal_s": 1817.0,
+      "ebv_mag": 0.053360361999999995,
+      "nominal_weighted_over_frozen_q": 1.0340868449778515,
+      "dark_weighted_s": 1647.7984848237572,
+      "bright_weighted_s": 1898.9361690166065,
+      "dark_frozen_s": 1499.9961539753758,
+      "bright_frozen_s": 1875.024913351619
+    },
+    {
+      "nominal_s": 1817.0,
+      "ebv_mag": 0.053683195,
+      "nominal_weighted_over_frozen_q": 1.0340868449778515,
+      "dark_weighted_s": 1650.921461279143,
+      "bright_weighted_s": 1900.8881002887906,
+      "dark_frozen_s": 1722.9895151975013,
+      "bright_frozen_s": 1876.6423976293615
+    },
+    {
+      "nominal_s": 3436.0,
+      "ebv_mag": 0.053360361999999995,
+      "nominal_weighted_over_frozen_q": 1.0091363866621887,
+      "dark_weighted_s": 3104.6939931479387,
+      "bright_weighted_s": 3582.971621547624,
+      "dark_frozen_s": 2999.705980948406,
+      "bright_frozen_s": 3563.7262229841126
+    },
+    {
+      "nominal_s": 3436.0,
+      "ebv_mag": 0.053683195,
+      "nominal_weighted_over_frozen_q": 1.0091363866621887,
+      "dark_weighted_s": 3112.5064679459665,
+      "bright_weighted_s": 3586.3647170091403,
+      "dark_frozen_s": 3235.703641059274,
+      "bright_frozen_s": 3566.904999194246
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "scope": "numerical identity and covariance formula checks only, not a Redrock or on-sky validation",
+  "points_tested": [
+    0.0,
+    0.001,
+    100.0,
+    749.999,
+    750.0,
+    750.001,
+    1499.999,
+    1500.0,
+    1500.001,
+    1817.0,
+    2250.001,
+    2999.999,
+    3000.0,
+    3000.001,
+    3436.0,
+    3600.0
+  ],
+  "nominal_identity_max_abs_s": 3.121737336186925e-06,
+  "formula_max_relative_difference": 2.1167203878417326e-16,
+  "equal_duration_max_relative_difference": 2.3401787796661383e-16,
+  "proxy_calibration_max_relative_difference": 2.4609995966793818e-14,
+  "proxy_cases": [
+    {
+      "frozen_nominal_actual_s": 1817.0,
+      "scene": "dark",
+      "weighted_nominal_s": 1758.5558153146526,
+      "weighted_scene_s": 1499.9961539738513
+    },
+    {
+      "frozen_nominal_actual_s": 1817.0,
+      "scene": "bright",
+      "weighted_nominal_s": 1758.5558153146526,
+      "weighted_scene_s": 1845.0341607448747
+    },
+    {
+      "frozen_nominal_actual_s": 3436.0,
+      "scene": "dark",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 2999.7059657625823
+    },
+    {
+      "frozen_nominal_actual_s": 3436.0,
+      "scene": "bright",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 3557.8405820336557
+    }
+  ],
+  "median_ebv_sensitivity_for_frozen_3436_s": [
+    {
+      "ebv": 0.053360362,
+      "scene": "dark",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 2999.7059657625823
+    },
+    {
+      "ebv": 0.053360362,
+      "scene": "bright",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 3557.840582033656
+    },
+    {
+      "ebv": 0.053683195,
+      "scene": "dark",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 3034.786491487761
+    },
+    {
+      "ebv": 0.053683195,
+      "scene": "bright",
+      "weighted_nominal_s": 3409.6273291926223,
+      "weighted_scene_s": 3561.2475443792255
+    }
+  ],
+  "sha256": {
+    "weighted_effective_model.py": "07d3709e0f9234451c13c8d8ecdac47e94c14a105ee2fcd5663a53daa6206d80",
+    "weighted_coadd_sensitivity.py": "671636043f0f509014f5d18a4d898fb9dc9b63c684b79b2e8a3fd352cf6572a6",
+    "depth_inputs.npz": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f"
+  }
+}

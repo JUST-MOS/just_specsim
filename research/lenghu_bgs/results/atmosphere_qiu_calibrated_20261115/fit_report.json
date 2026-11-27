@@ -1,0 +1,187 @@
+{
+  "status": "conditional candidate, not measured or calibrated site truth",
+  "source_qiu": "https://arxiv.org/html/2606.18804v1#S4.T4",
+  "qiu_csv_sha256": "e4b1a19443bd00f812fc454e6a3f23576a61fe12f04c8bccc4b8851dc9e1035f",
+  "eso_fits_sha256": "3708c43fe337a11926fbb4eab4686f0ad459b85a27c245465cf72e4adbf172e5",
+  "code_sha256": {
+    "fit_candidate.py": "10af5e5e1087faaa788f88b6d73c3f0aa4f4ba17284eb024248eae390eda34e7",
+    "etc_adapter.py": "9b50d820253982952ac886ee592d74e7451682057d7338abf6582260c727531f",
+    "verify_candidate.py": "d9ab5883254fabd07d7dd30094268225c4f34988646f2d8a8b23a2838f1fada8"
+  },
+  "software_versions": {
+    "python": "3.12.11",
+    "numpy": "1.26.4",
+    "scipy": "1.16.0",
+    "astropy": "6.1.3",
+    "matplotlib": "3.10.0"
+  },
+  "pressure_lenghu_hpa": 613.2828947368421,
+  "pressure_eso_hpa": 708.0,
+  "airmass_reference": 1.2,
+  "airmass_qiu_same_zenith": 1.1991626299935287,
+  "slope_forward_airmasses": [
+    1.0,
+    1.1666666666666667,
+    1.3333333333333333,
+    1.5,
+    1.6666666666666665,
+    1.8333333333333333,
+    2.0
+  ],
+  "assumed_qiu_resolving_power": 600.0,
+  "sigma_floor_mag_per_airmass": 0.005,
+  "knot_wavelengths_nm": [
+    400.0,
+    430.0,
+    460.0,
+    490.0,
+    520.0,
+    550.0,
+    580.0,
+    610.0,
+    640.0,
+    670.0,
+    700.0,
+    730.0,
+    760.0,
+    790.0
+  ],
+  "smooth_second_difference_scale": 0.5,
+  "weak_log_scale_prior": 3.0,
+  "log_scale_bounds": [
+    -5.0,
+    2.0
+  ],
+  "parameterization": "T = T_molecular * T_rayleigh_pressure * (T_ozone*T_mie)^exp(spline)",
+  "center_assumption": "Qiu labels are bin centers; wavelengths <650 use 10 nm, >=650 use 5 nm; 650 is chosen",
+  "edge_assumption": "Qiu labels are left edges; wavelengths <650 use 10 nm, >=650 use 5 nm; 650 is chosen",
+  "primary_extrapolation": "clamped spline evaluated at 400 and 790 outside those labels; red correction remains constant",
+  "red_sensitivity": "log correction smoothly relaxed to ESO baseline by 870 nm",
+  "fit_nodes": {
+    "center": [
+      0.37977279487718346,
+      0.16589341323235446,
+      -0.10841400326884469,
+      -0.3593090517566462,
+      -0.5364198513034703,
+      -0.486717584217838,
+      -0.406173675443946,
+      -0.46075236128930525,
+      -0.7500846807556724,
+      -1.3438722863454122,
+      -2.0588351168067462,
+      -2.674281795906735,
+      -3.169798692565554,
+      -3.5954243678555042
+    ],
+    "edge": [
+      0.5591683662257511,
+      0.3620477400558987,
+      0.07781419532157222,
+      -0.20629280654509133,
+      -0.44676459817465247,
+      -0.4726752085323943,
+      -0.3762695854465358,
+      -0.3922093649689096,
+      -0.6117613322649366,
+      -1.2572126002540223,
+      -2.0771533893859333,
+      -2.780011638612625,
+      -3.3834522096927326,
+      -3.902960755451899
+    ]
+  },
+  "fit_optimizer": {
+    "center": {
+      "success": true,
+      "nfev": 19,
+      "cost": 20.146647157673037,
+      "message": "`ftol` termination condition is satisfied."
+    },
+    "edge": {
+      "success": true,
+      "nfev": 13,
+      "cost": 81.04644909560834,
+      "message": "`ftol` termination condition is satisfied."
+    }
+  },
+  "full_sample_stats": {
+    "center": {
+      "baseline": {
+        "n": 53,
+        "mae_mag_per_airmass": 0.026211666236482672,
+        "median_abs_mag_per_airmass": 0.024960716522338736,
+        "rmse_mag_per_airmass": 0.030343168838266297,
+        "max_abs_mag_per_airmass": 0.11278015402465885
+      },
+      "candidate": {
+        "n": 53,
+        "mae_mag_per_airmass": 0.006778841638001472,
+        "median_abs_mag_per_airmass": 0.0026826831865172304,
+        "rmse_mag_per_airmass": 0.015433474994168778,
+        "max_abs_mag_per_airmass": 0.09134559839367057
+      }
+    },
+    "edge": {
+      "baseline": {
+        "n": 53,
+        "mae_mag_per_airmass": 0.028713470769789477,
+        "median_abs_mag_per_airmass": 0.02499018696966855,
+        "rmse_mag_per_airmass": 0.04273995748180779,
+        "max_abs_mag_per_airmass": 0.24493307611354614
+      },
+      "candidate": {
+        "n": 53,
+        "mae_mag_per_airmass": 0.010633640300424642,
+        "median_abs_mag_per_airmass": 0.003071793139390405,
+        "rmse_mag_per_airmass": 0.03339852834548011,
+        "max_abs_mag_per_airmass": 0.2234506014095035
+      }
+    }
+  },
+  "single_interleaved_holdout": {
+    "note": "Every fifth table row held out, no independent nights; diagnostic only",
+    "baseline": {
+      "n": 11,
+      "mae_mag_per_airmass": 0.032344959863276006,
+      "median_abs_mag_per_airmass": 0.024399626107130742,
+      "rmse_mag_per_airmass": 0.041777189021806854,
+      "max_abs_mag_per_airmass": 0.11278015402465885
+    },
+    "refit": {
+      "n": 11,
+      "mae_mag_per_airmass": 0.012634536285944444,
+      "median_abs_mag_per_airmass": 0.003448157863266507,
+      "rmse_mag_per_airmass": 0.02831748264645393,
+      "max_abs_mag_per_airmass": 0.09169319230939715
+    }
+  },
+  "at_790_nm": {
+    "qiu_k": 0.002,
+    "qiu_sigma_k": 0.012,
+    "baseline_T_at_label": 0.9617123258470132,
+    "candidate_T_at_label": 0.9835655586518425,
+    "alternative_edge_T_at_label": 0.983730702609029,
+    "rayleigh_only_k_at_label": 0.014408167192754891,
+    "continuum_scale_spline_derivative": 0.0
+  },
+  "limitations": [
+    "Qiu k values are fitted slopes; b and cross-bin covariance are unavailable",
+    "label convention and wavelength air/vacuum convention not established",
+    "fixed 3060m molecular absorption is not calibrated to Lenghu; airmass powers and R=600 Gaussian are approximations",
+    "ozone and aerosol are scaled together, not separately identified",
+    "Qiu data do not constrain >790nm; red continuation is a model choice",
+    "no propagation of model, wavelength, extinction covariance or observational systematics",
+    "no Redrock exposure scan rerun and no 4200m sky radiance recalibration"
+  ],
+  "output_sha256": {
+    "atmosphere_center_constant.fits": "203e906b9acba704b7f18173ba260c280ada902190ff496b29dc907d3cddc848",
+    "atmosphere_edge_constant.fits": "c5b283fd5e06679766e2f63cee75b57c03e407de07b3eb0c53079f7037d0630a",
+    "atmosphere_center_relax870.fits": "a16092c2d1e5374d4adbd27a42019839e89020d1d1fe9a5645f8a471c57f178d",
+    "extinction_fit_comparison.csv": "bac3d414d93fa7e721cc1d1e5a5edc9ae975e09c71e1d2fe4b48274b89224a83",
+    "extinction_fit.png": "61f1564af9ef73bbe8ebe9c30202b8404488c9ffd905413ce0b92dca11ab3a34",
+    "extinction_fit.pdf": "8b02ea8f86e4f30f682791f9274f9e07802db7b779de7394eec2d1680ab3762e",
+    "continuous_atmosphere.png": "4d0866327fd44131cdf5d920579150ae853e0e49f5cd74a22ef8affbd6d7864a",
+    "continuous_atmosphere.pdf": "e3cb02f7732c0f4c6145db6edcdbb826b34caa03d0eff8805e390712ccb5c0cf"
+  }
+}

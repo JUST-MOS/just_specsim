@@ -1,0 +1,38 @@
+{
+  "status": "complete",
+  "scope": "bright",
+  "n_test_targets": 578,
+  "time_s": 750,
+  "wave_nm": 623.1,
+  "seeing_fwhm_at_800_nm_arcsec": 0.8,
+  "caveat": "Pair associations describe a selected simulated sample, not a causal decomposition.",
+  "inputs": {
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/input/frozen_sample.csv": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/leader_195_205_20261116/extended_20p5/analysis_20261119/individual_results.csv": "a7524f8f18d6d634be5062eabe9d25f160e3f290d0e92cad9b8058b74ef551f1",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/just_mixture_coupling.csv": "96c32a9f20c9e8fad0b554bb3c5d1ce120c842d350cc9e30de0f5e5dbe763814",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/pilot/test_0000_redrock.csv": "615fc34db0fc91120957e016315cb010dd36d5ea1951ca36334b6b7082927c51",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0005_redrock.csv": "fbbab8722f871b341b7c44952957a3f0f465a12ba8689185d6cb07c29144ec04",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0055_redrock.csv": "9ca967518f7173d50e43e0fb13ed518bbfe1cca39cad78cfec7ef65bfa87be47",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0105_redrock.csv": "05b58f68ced3bfb4e0865f6825461986676955b18c89776eb33714306e8537f0",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0155_redrock.csv": "4fc75b506132af81616247e1ac31fa40b4718999aedd340eebee53f0fb13715e",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0205_redrock.csv": "fce1592cd4a32c59badf7c52a5e6dc0dd92b3a0428d5eb3923f1c2425095e481",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0255_redrock.csv": "8b7df6f684013c443b23efa467cd6da38ee1c4e330877b0fd6eef36fd136a2c7",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0305_redrock.csv": "a81fcbcdb28b0345402c728eea4662b7c8e2205b77bea9ebda74ab4fcfb8caef",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0355_redrock.csv": "a18a4e062dab8368ec86aebf560d92d3923ed717e734255a18da1c862f46830f",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0405_redrock.csv": "45427a9269004d3fa563ac977aa37a20f21605a685f73227d0937cf205a5ad99",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0455_redrock.csv": "658e5d6a80e6dbe717774b1d515ce99f7290c1bffaf8aa21ab60217dd01ca87b",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0505_redrock.csv": "0d8ab62b53702534e15a8082bac40f8b49556598ee82c0f5e354d36d81abc5a2",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0555_redrock.csv": "58283ee5132ad49896b3f45c9532d7bfe8e1e0280d53364b8687257c6bd467d9",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0605_redrock.csv": "d577964e42393c84fd32c2a4b9b2092220affa28a6a6a8890117a7550b516f2a",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0655_redrock.csv": "bdea2382f4b37bb00ffca26029c119674226580dcdd997186f4d4914019b5466",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0705_redrock.csv": "efa24c55fffcd725d9e45826d75a9c8250c3dacfda2a90bf8a1bbeeb75ac890e",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0755_redrock.csv": "4dface36ce07f669e9573e658020106b58690a5368e56f6d57fc41b0c86053d2",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0805_redrock.csv": "6202fa1b83c8b00ba8813ab5a58b12b6c4181daed838827dda42a9ed19eef541",
+    "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/run/test_0855_redrock.csv": "c2c097fe81e8a15bbf4558511aca6b6863307ceae0f4c97b13a8cad167ab8b25"
+  },
+  "script_sha256": "6b7bb5a61f3893b5bcc0a4ea8c9d8d20dedc6f22faf96691681aaed45bd57af1",
+  "outputs": {
+    "coupling_transitions_750.csv": "414ec55f688ac93af5db0b6b433540b94f031560ad1b9c9c12b81a72f9987dab",
+    "coupling_transition_summary_750.csv": "660c2fee4a269d7cc8782c49f8ccb57d750085624535652e2d32ceefef08f7a7"
+  }
+}

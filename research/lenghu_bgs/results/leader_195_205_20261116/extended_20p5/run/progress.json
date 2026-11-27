@@ -1,0 +1,78 @@
+{
+  "status": "complete",
+  "completed": [
+    {
+      "start": 891,
+      "galaxies": 8,
+      "spectra": 80,
+      "returned": 80,
+      "elapsed_seconds": 338.061
+    },
+    {
+      "start": 899,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 1090.631
+    },
+    {
+      "start": 949,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 946.162
+    },
+    {
+      "start": 999,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 924.814
+    },
+    {
+      "start": 1049,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 924.895
+    },
+    {
+      "start": 1099,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 931.51
+    },
+    {
+      "start": 1149,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 924.92
+    },
+    {
+      "start": 1199,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 931.624
+    },
+    {
+      "start": 1249,
+      "galaxies": 50,
+      "spectra": 500,
+      "returned": 500,
+      "elapsed_seconds": 927.752
+    },
+    {
+      "start": 1299,
+      "galaxies": 33,
+      "spectra": 330,
+      "returned": 330,
+      "elapsed_seconds": 653.077
+    }
+  ],
+  "current_start": null,
+  "updated_utc": "2026-11-19T12:54:47.216430+00:00",
+  "detail": null
+}

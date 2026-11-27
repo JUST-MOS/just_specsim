@@ -1,0 +1,13 @@
+{
+  "source": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/tractor_redrock_20261121/analysis_extended/success_curves.csv",
+  "source_sha256": "44d5630087526daffc1ac896765bd9d42f8341c8ee22dfadbed5909a8530c30b",
+  "script_sha256": "9e41d736489855811bd4cb10ab21fbfda41fce8a2903186eb51041b2c80beb13",
+  "line_styles": "solid: point; dashed: one-sided 95% lower adjusted over eight times",
+  "matplotlib": "3.10.0",
+  "size_inches": [
+    10.8,
+    8
+  ],
+  "png_dpi": 200,
+  "original_times_note": "The original model was not evaluated below 750 s."
+}

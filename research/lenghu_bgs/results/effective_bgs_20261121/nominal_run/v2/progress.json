@@ -1,0 +1,206 @@
+{
+  "status": "complete",
+  "completed": [
+    {
+      "start": 0,
+      "galaxies": 8,
+      "attempted": 16,
+      "returned": 16,
+      "elapsed_seconds": 257.202
+    },
+    {
+      "start": 8,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 536.253
+    },
+    {
+      "start": 58,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 527.959
+    },
+    {
+      "start": 108,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 523.007
+    },
+    {
+      "start": 158,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 510.036
+    },
+    {
+      "start": 208,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 531.892
+    },
+    {
+      "start": 258,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 531.17
+    },
+    {
+      "start": 308,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 526.172
+    },
+    {
+      "start": 358,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 526.151
+    },
+    {
+      "start": 408,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 525.908
+    },
+    {
+      "start": 458,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 541.243
+    },
+    {
+      "start": 508,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 601.091
+    },
+    {
+      "start": 558,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 438.797
+    },
+    {
+      "start": 608,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 460.524
+    },
+    {
+      "start": 658,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 427.961
+    },
+    {
+      "start": 708,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 426.714
+    },
+    {
+      "start": 758,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 422.894
+    },
+    {
+      "start": 808,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 420.576
+    },
+    {
+      "start": 858,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 424.189
+    },
+    {
+      "start": 908,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 425.129
+    },
+    {
+      "start": 958,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 429.161
+    },
+    {
+      "start": 1008,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 429.944
+    },
+    {
+      "start": 1058,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 432.123
+    },
+    {
+      "start": 1108,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 425.992
+    },
+    {
+      "start": 1158,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 422.415
+    },
+    {
+      "start": 1208,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 424.347
+    },
+    {
+      "start": 1258,
+      "galaxies": 50,
+      "attempted": 100,
+      "returned": 100,
+      "elapsed_seconds": 420.92
+    },
+    {
+      "start": 1308,
+      "galaxies": 24,
+      "attempted": 48,
+      "returned": 48,
+      "elapsed_seconds": 311.279
+    }
+  ],
+  "current_start": null,
+  "error": null,
+  "completed_spectra": 2664,
+  "total_spectra": 2664,
+  "updated_utc": "2026-11-21T08:07:22.685016+00:00"
+}

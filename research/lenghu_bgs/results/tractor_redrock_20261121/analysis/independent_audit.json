@@ -1,0 +1,377 @@
+{
+  "status": "passed",
+  "n_curve_checks": 40,
+  "n_paired_scenarios": 13320,
+  "n_paired_mask_count_records": 39960,
+  "valid_pixel_count_mismatches": 0,
+  "source_resolution_mask_count_mismatches": 0,
+  "n_direct_pixel_mask_checks": 1500,
+  "n_all_pixel_mask_checks": 39960,
+  "pixel_mask_arrays_different": 0,
+  "pixel_mask_audit_sha256": "6d55ad33547e012bf911027e00a5fc8e39522b240806496cfccb21bd1f8b289f",
+  "mask_scope": "counts only; equal counts do not prove pixelwise masks are identical",
+  "analysis_manifest_sha256": "080e0bd3efabd96af9362a1c1bcaacad2226f9ebe1816b1689c5a600c5f38914",
+  "audit_script_sha256": "1c044a73c02e6807caa8cd6335e353bf26909c7a745112c39e2cb29a971906d5",
+  "independent_curve_checks": [
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 750,
+      "n": 578,
+      "success": 529,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 1500,
+      "n": 578,
+      "success": 553,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 2250,
+      "n": 578,
+      "success": 556,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 3000,
+      "n": 578,
+      "success": 563,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 3600,
+      "n": 578,
+      "success": 561,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 750,
+      "n": 578,
+      "success": 573,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 1500,
+      "n": 578,
+      "success": 575,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 2250,
+      "n": 578,
+      "success": 578,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 3000,
+      "n": 578,
+      "success": 577,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 3600,
+      "n": 578,
+      "success": 577,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 750,
+      "n": 578,
+      "success": 520,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 1500,
+      "n": 578,
+      "success": 545,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 2250,
+      "n": 578,
+      "success": 551,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 3000,
+      "n": 578,
+      "success": 554,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 3600,
+      "n": 578,
+      "success": 559,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 750,
+      "n": 578,
+      "success": 572,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 1500,
+      "n": 578,
+      "success": 575,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 2250,
+      "n": 578,
+      "success": 576,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 3000,
+      "n": 578,
+      "success": 576,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_19p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 3600,
+      "n": 578,
+      "success": 578,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 750,
+      "n": 1332,
+      "success": 1158,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 1500,
+      "n": 1332,
+      "success": 1250,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 2250,
+      "n": 1332,
+      "success": 1265,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 3000,
+      "n": 1332,
+      "success": 1288,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "original",
+      "time_s": 3600,
+      "n": 1332,
+      "success": 1289,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 750,
+      "n": 1332,
+      "success": 1290,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 1500,
+      "n": 1332,
+      "success": 1318,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 2250,
+      "n": 1332,
+      "success": 1321,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 3000,
+      "n": 1332,
+      "success": 1325,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "dark",
+      "model": "mixture",
+      "time_s": 3600,
+      "n": 1332,
+      "success": 1325,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 750,
+      "n": 1332,
+      "success": 1112,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 1500,
+      "n": 1332,
+      "success": 1228,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 2250,
+      "n": 1332,
+      "success": 1258,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 3000,
+      "n": 1332,
+      "success": 1269,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "original",
+      "time_s": 3600,
+      "n": 1332,
+      "success": 1273,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 750,
+      "n": 1332,
+      "success": 1273,
+      "binomial_meets_95": false
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 1500,
+      "n": 1332,
+      "success": 1314,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 2250,
+      "n": 1332,
+      "success": 1324,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 3000,
+      "n": 1332,
+      "success": 1320,
+      "binomial_meets_95": true
+    },
+    {
+      "group": "r_lt_20p5",
+      "sky": "bright",
+      "model": "mixture",
+      "time_s": 3600,
+      "n": 1332,
+      "success": 1327,
+      "binomial_meets_95": true
+    }
+  ]
+}

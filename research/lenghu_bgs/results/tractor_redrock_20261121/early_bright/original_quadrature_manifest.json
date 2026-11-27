@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "wave_nm": 623.1,
+  "seeing_fwhm_800_arcsec": 0.8,
+  "baseline_grid": "100 nodes, du=0.012, cutoff=1.2 cycles/arcsec",
+  "finer_grid": "400 nodes, du=0.003, cutoff=1.2 cycles/arcsec",
+  "extended_grid": "800 nodes, du=0.003, cutoff=2.4 cycles/arcsec",
+  "scope": "old circular-exponential model numerical geometry only",
+  "sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "saved_coupling_sha256": "96c32a9f20c9e8fad0b554bb3c5d1ce120c842d350cc9e30de0f5e5dbe763814",
+  "script_sha256": "cc2cdb4db691513ae4ccd6a694eb13aefe655a5568e1c5018274a67df74a194b",
+  "outputs": {
+    "original_quadrature_per_target.csv": "50558790d26551203f4e073ab6a0e459fa377d40a24c499c2b7383f2d92b74e9",
+    "original_quadrature_summary.csv": "7416854e2a961963d6af763ed9ce7e7e4e0cc3966716c0b93ec0b2b0352bc02d"
+  }
+}

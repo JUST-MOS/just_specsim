@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "reference_time_s": 3000.0,
+  "split_s": 750.0,
+  "nominal_scene_only": true,
+  "scope": "method illustration; weighted coadd not Redrock-validated",
+  "sha256": {
+    "coadd_boundary.png": "d02cef8a20f1852033f12701fbd42dd318f5c248c81a1c4f6529e5e835f0a3cc",
+    "coadd_boundary.pdf": "232449bd9f606f9d70082c399688cfd30e58e1123e04fa9b1d87f1320ba98900",
+    "depth_inputs.npz": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+    "plot_coadd_boundary.py": "b46141fe7fcc525b6a4b7d736d3f14d27c1548694e79f8bfea077c9ab0de9b8f"
+  }
+}

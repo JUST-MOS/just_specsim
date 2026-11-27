@@ -1,0 +1,8 @@
+{
+  "nominal_identity_max_abs_s": 3.579998519853689e-10,
+  "background_variance_max_relative_difference": 0.0,
+  "adjusted_lower_max_abs_difference": 1.1102230246251565e-16,
+  "within_split_monotonicity": "passed",
+  "nominal_sky_decam_r_ab": 21.069999999999997,
+  "status": "passed; engineering and numerical checks, not physical calibration"
+}

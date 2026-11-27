@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "n_galaxies": 1332,
+  "n_scenario_rows": 13320,
+  "n_groups": 39,
+  "n_curve_rows": 390,
+  "n_threshold_rows": 156,
+  "max_cp_lower_abs_difference": 4.961586697049825e-13,
+  "scope": "Recomputed raw classifications, target membership, group counts, first sampled thresholds and independent scipy.stats.binomtest exact one-sided intervals; this is not validation of physical model assumptions.",
+  "analysis_manifest_sha256": "8c6f3b89327f01fbfa27e98a9524e371d971446cb09676f37c4d94974bf47811",
+  "audit_script_sha256": "881b8c36f81d2c53613d0da7a041e06bd046158cc6ffc8a5f7011914fdd445c4"
+}

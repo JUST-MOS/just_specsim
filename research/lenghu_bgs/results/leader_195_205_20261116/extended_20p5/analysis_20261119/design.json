@@ -1,0 +1,17 @@
+{
+  "scope": "Selected DESI EDR VI/FastSpecFit deep-field galaxies, 0.1 < z_VI < 0.4 and Milky-Way-dereddened total BASS-r AB < 20.5; original 891 test galaxies plus 441 new test galaxies.",
+  "times_s": [750, 1500, 2250, 3000, 3600],
+  "skies": ["dark", "bright"],
+  "success": "Returned finite Redrock redshift, ZWARN=0, DELTACHI2>40, abs(z_fit-z_VI)/(1+z_VI)<0.0033; all selected targets including missing fits stay in the denominator.",
+  "primary_threshold": "first sampled time at which the one-sided 95% Clopper-Pearson lower bound, Bonferroni-corrected over five exposure times within each group and sky, is at least 95%",
+  "secondary_thresholds": "point estimate and unadjusted one-sided 95% lower bound, each first sampled time at or above 95%; also calculate 90% for consistency with prior study",
+  "magnitude_groups": "r<=19, 19<r<=20, 20<r<20.5; new faint and all are both reported",
+  "redshift_groups": "0.1<z_VI<=0.25 and 0.25<z_VI<0.4",
+  "spectral_groups": "original frozen bpt_star_forming, weak_line_old, and other_unclassified labels; plus all magnitude-redshift-spectral intersections",
+  "observable_groups": "intersect each magnitude group with old calibration-set median splits in dereddened total g-r and Legacy Survey fiber-r; exploratory, no joint adjustment for all reported groups",
+  "color_split": 1.009976148605347,
+  "fiber_r_split": 20.5899125097701,
+  "fiber_r_definition": "22.5-2.5*log10(FIBERFLUX_R/MW_TRANSMISSION_R), AB, Legacy Survey DESI aperture; valid positive flux and transmission only",
+  "small_group_status": "A group with fewer than ceil(log(0.01)/log(target)) galaxies cannot meet the five-time-adjusted threshold even if all targets succeed.",
+  "caveats": "Conditional binomial approximation, single selected field, shared reference observations and model selection; bounds omit sky, atmospheric, instrument, and population systematics. Each time has an independently seeded noise realization. An 8-object pilot had already been inspected before this analysis design; original grouping choices transfer from the previous frozen study and must not be described as fully blind for this extension."
+}

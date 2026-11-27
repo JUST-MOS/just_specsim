@@ -1,0 +1,11 @@
+group,sky,time_s,n,old_fail_new_success,old_success_new_fail,both_success,both_fail
+r_lt_19p5,dark,750,578,44,0,529,5
+r_lt_19p5,dark,1500,578,22,0,553,3
+r_lt_19p5,dark,2250,578,22,0,556,0
+r_lt_19p5,dark,3000,578,14,0,563,1
+r_lt_19p5,dark,3600,578,16,0,561,1
+r_lt_19p5,bright,750,578,52,0,520,6
+r_lt_19p5,bright,1500,578,30,0,545,3
+r_lt_19p5,bright,2250,578,25,0,551,2
+r_lt_19p5,bright,3000,578,22,0,554,2
+r_lt_19p5,bright,3600,578,19,0,559,0

@@ -1,0 +1,5 @@
+sample,criterion,dark_redrock_anchor_s,dark_success,n,dark_success_fraction,dark_adjusted_lower,weighted_nominal_eff_s,weighted_dark_s,weighted_bright_s,ebv,status
+r<19.5,point,1500,553,578,0.9567474048442908,0.9320874778589624,1758.5626737290463,1500.0000037560912,1845.0403286886606,0.053360361999999995,indirect proxy from prior dark SUM-coadd test; weighted coadd unvalidated
+r<19.5,bonferroni_lower,3000,563,578,0.9740484429065744,0.953565225412409,3410.047829367171,3000.0000041641397,3558.2384865323233,0.053360361999999995,indirect proxy from prior dark SUM-coadd test; weighted coadd unvalidated
+r<20.5,point,3000,1288,1332,0.9669669669669668,0.9537267153174084,3410.047829367171,3000.0000041641397,3558.2384865323233,0.053360361999999995,indirect proxy from prior dark SUM-coadd test; weighted coadd unvalidated
+r<20.5,bonferroni_lower,3000,1288,1332,0.9669669669669668,0.9537267153174084,3410.047829367171,3000.0000041641397,3558.2384865323233,0.053360361999999995,indirect proxy from prior dark SUM-coadd test; weighted coadd unvalidated

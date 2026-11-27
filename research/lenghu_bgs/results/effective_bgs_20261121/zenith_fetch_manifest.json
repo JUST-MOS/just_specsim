@@ -1,0 +1,33 @@
+{
+  "source": "https://etimecalret-002.eso.org/observing/etc",
+  "airmass": 1.0,
+  "spacing_nm": 0.01,
+  "status": "ESO models; not Lenghu measurements",
+  "sites": {
+    "lasilla_2400": {
+      "input": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/lasilla_2400_zenith_0p01nm_input.json",
+      "input_sha256": "cdcc09b7c9cb1a54e6cbaecf7d1a30937c446263a81217bb5ddd58878306041d",
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/lasilla_2400_zenith_0p01nm.fits",
+      "fits_sha256": "91e7303baaab39066f8e3472bac7bfaee2eac11df50ad0f7e8bc955be23bd4fd",
+      "samples": 56001,
+      "observatory": "2400"
+    },
+    "paranal_2640": {
+      "input": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/paranal_2640_zenith_0p01nm_input.json",
+      "input_sha256": "9f99578b54321b9c857e4c6877f7354b6f0d2e2477dc53814094ceff730cfbf3",
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/paranal_2640_zenith_0p01nm.fits",
+      "fits_sha256": "e32a33a68d0ff1c3a830de7a417a6e04abb5f3817b24e2bdb2064036e04575f1",
+      "samples": 56001,
+      "observatory": "2640"
+    },
+    "anchor_3060": {
+      "input": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/anchor_3060_zenith_0p01nm_input.json",
+      "input_sha256": "9019d61e13d54c8ff8f4e6fc4e86cc4da66974dd9548d9fe65229c806f1e73c5",
+      "fits": "/Users/rain/just_etc/doc/validation/lenghu_redshift_recovery_20261111/effective_bgs_20261121/anchor_3060_zenith_0p01nm.fits",
+      "fits_sha256": "b8f6b42716a7a3829988b9de07a0e7f114ed313c7c8db2006560e10ff0acfb8a",
+      "samples": 56001,
+      "observatory": "3060m"
+    }
+  },
+  "elapsed_seconds": 17.06200158316642
+}

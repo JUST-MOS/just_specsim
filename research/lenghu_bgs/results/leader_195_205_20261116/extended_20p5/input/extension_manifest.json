@@ -1,0 +1,17 @@
+{
+  "status": "prepared_needs_lsf_and_smoke",
+  "n_original": 1136,
+  "n_added": 545,
+  "n_test_new": 441,
+  "n_test_total": 1332,
+  "old_catalog_sha256": "3179300bfd574e98824fdbfbebd782ca96beb5eaf0ba89c2c20930c6b80de3c8",
+  "old_reference_models_sha256": "87b10bbf39063036cf7eb97d5692d2db14fb79017b436ae56e38b993de3b093e",
+  "old_frozen_design_sha256": "b9bbc4d4cceb30438c0bde69acda4c7bf5f6ad17c10804518a1ef5568777a973",
+  "new_design_sha256": "dcf3638edbe3739c1a58ed5a2afe6c009b55a45d98854492a46aca444edb9eec",
+  "new_sample_sha256": "ae63f8abff1113103ef35094324480e35b5dd92a6dea91f0535ed68470f05404",
+  "new_normalized_sources_sha256": "8ed9d814fe97a4e3f6f147d1b0880e2b39bf0cf407d393d6e301e90f31927fb4",
+  "old_normalized_sources_sha256": "b20db630cff59e301320812587c3d8be994ce4faf2e7f0d393e3266eb2547694",
+  "script_sha256": "27417fa553298d8c62c046d6fdf865650729dc41eafb416fcf29b4d496fa57a0",
+  "new_magnitude_norm_max_error": 7.105427357601002e-15,
+  "selection_caveat": "Single EDR VI-selected field; reference models and VI share observations; sources with model/VI disagreement are excluded."
+}

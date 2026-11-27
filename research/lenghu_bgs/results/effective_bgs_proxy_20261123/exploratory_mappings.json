@@ -1,0 +1,79 @@
+{
+  "status": "exploratory equal-information transfer, not Redrock-calibrated",
+  "nominal": "X=1, EBV=0, r sky=21.07 AB mag/arcsec2, seeing=1.1 arcsec at 635.5nm",
+  "scenario": "X=1.2, seeing=0.8 arcsec at 800nm, EBV=0.053360362, existing 4200m skies",
+  "galaxy_reference": "circular r_eff=1.5 arcsec, total BASS-r0=19.5",
+  "note": "Idealized inverse-covariance weighted Q; common feature weights from 110 calibration spectra; no new spectra or Redrock fits.",
+  "time_mappings": {
+    "old_exponential": {
+      "dark_500": 524.0602982911308,
+      "bright_500": 487.70097604103233,
+      "dark_750": 918.8276320745567,
+      "bright_1500": 1444.1525845705467,
+      "nominal_600_to_dark_s": 570.0011398719471,
+      "nominal_600_to_bright_s": 618.9169387313242,
+      "dark_500_arm_q_ratio": [
+        0.7922120696444107,
+        0.9257186405823626,
+        1.0546380895177552
+      ],
+      "bright_500_arm_q_ratio": [
+        0.6886414590617798,
+        0.8561356866805603,
+        1.088471483823632
+      ]
+    },
+    "tractor_exp": {
+      "dark_500": 524.0325283837986,
+      "bright_500": 487.6963996516483,
+      "dark_750": 918.5757517544893,
+      "bright_1500": 1444.152165301909,
+      "nominal_600_to_dark_s": 570.034771398656,
+      "nominal_600_to_bright_s": 618.9209461950528,
+      "dark_500_arm_q_ratio": [
+        0.7923554536453999,
+        0.9258045538533872,
+        1.0546065178499602
+      ],
+      "bright_500_arm_q_ratio": [
+        0.6887820628060278,
+        0.856302152975584,
+        1.088427946744422
+      ]
+    },
+    "tractor_exp_geometry": {
+      "nominal_B_median_ratio": 1.0144364820815495,
+      "nominal_R_median_ratio": 1.0144477096575044,
+      "nominal_Z_median_ratio": 1.0144538513459322,
+      "dark_B_median_ratio": 1.0144646959516088,
+      "dark_R_median_ratio": 1.0144570747912551,
+      "dark_Z_median_ratio": 1.0144469728162553
+    },
+    "tractor_dev": {
+      "dark_500": 574.4893554563184,
+      "bright_500": 535.3675854764726,
+      "dark_750": 1050.6171636460297,
+      "bright_1500": 1749.5186801408822,
+      "nominal_600_to_dark_s": 521.2890656994621,
+      "nominal_600_to_bright_s": 561.3590010111652,
+      "dark_500_arm_q_ratio": [
+        0.7877380208832605,
+        0.9186488796253698,
+        1.0564866926537353
+      ],
+      "bright_500_arm_q_ratio": [
+        0.6849012579062604,
+        0.852085121623951,
+        1.088952698595043
+      ]
+    },
+    "tractor_dev_geometry": {
+      "nominal_B_median_ratio": 1.406564686641536,
+      "nominal_R_median_ratio": 1.433616603086094,
+      "nominal_Z_median_ratio": 1.4535411932926618,
+      "dark_B_median_ratio": 1.52318791727224,
+      "dark_R_median_ratio": 1.5452230122338557,
+      "dark_Z_median_ratio": 1.5606636932743772
+    }
+  }
+}

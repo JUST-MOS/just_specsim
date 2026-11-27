@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "scope": "33 nodes, 97 wavelengths and seven exponential radii at nominal seeing",
+  "max_relative_error_by_arm": {
+    "B": 8.211872695729205e-06,
+    "R": 3.697645176714559e-06,
+    "Z": 2.0492880555833537e-06
+  },
+  "nominal_instrument_sha256": "0884dae20bde5f254dfd5f5b1d469b2e688e46bf3044b7be5dc953dc68a20aa0",
+  "script_sha256": "4325f8cd7486247040fd6ac96e4e236af82cd4d7c5a4990e6f7aa9ed61c133e6"
+}

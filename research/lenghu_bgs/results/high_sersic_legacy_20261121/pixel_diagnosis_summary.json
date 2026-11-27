@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "n": 67,
+  "groups": [
+    {
+      "group": "all_matched",
+      "n": 67,
+      "continuous_over_cat_p16": 1.006809953282624,
+      "continuous_over_cat_median": 1.0092477613907396,
+      "continuous_over_cat_p84": 1.010357014812751,
+      "pixel_over_cat_p16": 0.9999999604381435,
+      "pixel_over_cat_median": 1.000000008044524,
+      "pixel_over_cat_p84": 1.000000075729613,
+      "pixel_over_continuous_p16": 0.9897491957299533,
+      "pixel_over_continuous_median": 0.9908370020024884,
+      "pixel_over_continuous_p84": 0.9932361270822622,
+      "pixel_within_1pct": 1.0
+    },
+    {
+      "group": "high_n",
+      "n": 8,
+      "continuous_over_cat_p16": 1.0083798549647276,
+      "continuous_over_cat_median": 1.009383024334316,
+      "continuous_over_cat_p84": 1.0106224224795686,
+      "pixel_over_cat_p16": 0.9999999952609848,
+      "pixel_over_cat_median": 1.0000000111793308,
+      "pixel_over_cat_p84": 1.000000108630649,
+      "pixel_over_continuous_p16": 0.9894892350082723,
+      "pixel_over_continuous_median": 0.9907043094266863,
+      "pixel_over_continuous_p84": 0.9916899281452948,
+      "pixel_within_1pct": 1.0
+    },
+    {
+      "group": "test_only",
+      "n": 56,
+      "continuous_over_cat_p16": 1.0073786502136433,
+      "continuous_over_cat_median": 1.009316394063055,
+      "continuous_over_cat_p84": 1.0103280709802307,
+      "pixel_over_cat_p16": 0.9999999572033286,
+      "pixel_over_cat_median": 1.0000000045871287,
+      "pixel_over_cat_p84": 1.0000000704215077,
+      "pixel_over_continuous_p16": 0.9897774377514101,
+      "pixel_over_continuous_median": 0.990769624397118,
+      "pixel_over_continuous_p84": 0.992675353687877,
+      "pixel_within_1pct": 1.0
+    }
+  ],
+  "max_area_check_abs": 2.4521170649549617e-09,
+  "matched_input_sha256": "ff3ffa69e3496aa36e477f3e92a7439b02d91d5f81ad58fe9fea5e152e69ffee",
+  "reference_source_sha256": "2221894a60b5cc07b333b7ae8f084f0568cc589a4085d44b49946436c25e97d0",
+  "redrock_run": false
+}

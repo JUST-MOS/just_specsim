@@ -1,0 +1,33 @@
+{
+  "n_test": 1332,
+  "n_per_bin": [
+    730,
+    138,
+    91,
+    38,
+    232,
+    103
+  ],
+  "sersic_bin_edges": [
+    "0",
+    "1.25",
+    "2",
+    "3",
+    "4",
+    "5",
+    "infinity"
+  ],
+  "bin_interval": "left inclusive, right exclusive",
+  "statistics": "median and 16th\u201384th percentiles over galaxies; not confidence intervals",
+  "inputs_sha256": {
+    "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/catalog_reconstruction_per_target.csv": "878ed8dd487be13399d208e478f7c039be6e3047cb60b892ca2c46caf3dedeff",
+    "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/just_mixture_coupling.csv": "96c32a9f20c9e8fad0b554bb3c5d1ce120c842d350cc9e30de0f5e5dbe763814",
+    "doc/validation/lenghu_redshift_recovery_20261111/high_sersic_legacy_20261121/plot_comparison.py": "c931db976e640e3f9f715261a3f23a5155ba5732de428ae6be94fe623ce1f370"
+  },
+  "figure_inches": [
+    11.6,
+    4.8
+  ],
+  "png_dpi": 200,
+  "matplotlib": "3.10.0"
+}

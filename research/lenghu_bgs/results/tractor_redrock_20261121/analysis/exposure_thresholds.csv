@@ -1,0 +1,9 @@
+group,sky,model,n,time_s_point,time_s_pointwise_lower,time_s_adjusted_lower,status_adjusted
+r_lt_19p5,dark,original,578,1500,3000.0,3000.0,met_on_grid
+r_lt_19p5,dark,mixture,578,750,750.0,750.0,met_on_grid
+r_lt_19p5,bright,original,578,2250,3600.0,,not_confirmed_through_3600s
+r_lt_19p5,bright,mixture,578,750,750.0,750.0,met_on_grid
+r_lt_20p5,dark,original,1332,3000,3000.0,3000.0,met_on_grid
+r_lt_20p5,dark,mixture,1332,750,750.0,750.0,met_on_grid
+r_lt_20p5,bright,original,1332,3000,,,not_confirmed_through_3600s
+r_lt_20p5,bright,mixture,1332,750,1500.0,1500.0,met_on_grid

@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "note": "Sensitivity of fixed sum-coadd inversion; not a new Redrock success measurement or physical confidence interval.",
+  "target_nominal_s": 3436.0,
+  "maximum_single_exposure_s": 750,
+  "cases": {
+    "bgs_bright_median": {
+      "ebv_mag": 0.053360361999999995,
+      "dark_equal_q_s": 2999.705980948406,
+      "bright_equal_q_s": 3563.7262229841126,
+      "dark_q_at_3000_over_target": 1.0001437026557274,
+      "dark_q_just_after_3000_over_target": 0.8936290783671519
+    },
+    "expanded_median": {
+      "ebv_mag": 0.053683195,
+      "dark_equal_q_s": 3235.703641059274,
+      "bright_equal_q_s": 3566.904999194246,
+      "dark_q_at_3000_over_target": 0.9988859301459813,
+      "dark_q_just_after_3000_over_target": 0.8925095121075921
+    },
+    "expanded_5th": {
+      "ebv_mag": 0.046698962000000004,
+      "dark_equal_q_s": 2947.075134734418,
+      "bright_equal_q_s": 3498.816482163308,
+      "dark_q_at_3000_over_target": 1.0264835690119778,
+      "dark_q_just_after_3000_over_target": 0.9170734259660512
+    },
+    "expanded_95th": {
+      "ebv_mag": 0.07630452400000001,
+      "dark_equal_q_s": 3432.1732012315356,
+      "bright_equal_q_s": 4007.700745689667,
+      "dark_q_at_3000_over_target": 0.9148754269943941,
+      "dark_q_just_after_3000_over_target": 0.8177171463873392
+    }
+  }
+}

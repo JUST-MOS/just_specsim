@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "image_pixels": [
+    2100,
+    1500
+  ],
+  "local_links_checked": 8,
+  "outputs": {
+    "analysis_manifest.json": "080e0bd3efabd96af9362a1c1bcaacad2226f9ebe1816b1689c5a600c5f38914",
+    "independent_audit.json": "ff34611211f4e518690572f930d08391b5971e27775df4709587065416fe2d06",
+    "pixel_mask_audit.json": "6d55ad33547e012bf911027e00a5fc8e39522b240806496cfccb21bd1f8b289f",
+    "success_curves.csv": "62d73494ff19b33a88f943d5e6cfc7e010d0799e3fa104194de070cfd5981602",
+    "exposure_thresholds.csv": "539b4472750ee39522810a707bea0fba3e143f274f5b2568e0f0b7bb7009007a",
+    "paired_outcomes.csv": "7bd58336992398702e21580b5145dec5d5d9dd3d62b529903c597f6decb5484b",
+    "individual_results.csv": "50dcddf759583a3b68afe8336bdef1df58ac969936b80520dd5af4bc41c1966c",
+    "figure_manifest.json": "280e259a38bf9199dd554e1e7c59df5fd55c34b75f4af4536064848bccc8e9d2",
+    "recovery_comparison.png": "16ed7372e04802daa891dd33129b5e54e7aa2ca7d681ab59083c947c977febf2",
+    "recovery_comparison.pdf": "35a980028223dee562fd9a7183c6f5c9d6781ccd4e0f80f85ef9e47255adb1df",
+    "RESULTS_zh.md": "b62523a1d3592794d686e75d513171663b9601e6f20a8e4348fb2dc9b7d36249"
+  },
+  "script_sha256": "4f40e107db19bcf6c41d806f1718179aeeee06dcda37be38b4ab3a9395b05afe"
+}

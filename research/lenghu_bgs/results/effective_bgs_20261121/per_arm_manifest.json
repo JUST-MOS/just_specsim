@@ -1,0 +1,7 @@
+{
+  "status": "engineering diagnostic; no arm-specific Redrock success calibration",
+  "method": "same nominal inverse-information procedure applied separately to each arm",
+  "weights": "same 110 calibration-spectrum mean squared features as scalar model",
+  "depth_inputs_sha256": "2918d31bbefe3ad9776898994a3e7c5032bc43bdaf5d3f1e7b940a577b28db0f",
+  "script_sha256": "32f192c0b039f4fd4ab94a84032ccaaa6360a51b562c7be856d26f6eb7e53746"
+}

@@ -1,0 +1,16 @@
+{
+  "input_curve_sha256": "ea76b06a773132694d63c1521106f2816e47d06effe6145b275b7d8a69407718",
+  "audit_sha256": "2166364d9a0243c1fb76c8d05c72731607bc7fb6fd721bac2768db5f732d2cd0",
+  "script_sha256": "f28df1a5386f5895b8684fe3d272c667a41bc281f10e13632e7d7fb49d83f02e",
+  "outputs": {
+    "png": "b633a9c124ae19d392157234f5781f6e5e02da236ed90664652591646c97097f",
+    "pdf": "21735dd422ffd5e127b4f6853273c57f1466ef8293a16c630dd699ce0725fc61"
+  },
+  "meaning": "Circles are sample success fractions; open triangles are one-sided 95% Clopper-Pearson lower bounds adjusted for five tested times. Vertical segments only connect these two values at each actual sampled time; no time interpolation.",
+  "y_min": 0.6499999999999999,
+  "figsize_inches": [
+    10.4,
+    7.2
+  ],
+  "png_dpi": 220
+}
